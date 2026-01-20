@@ -207,10 +207,9 @@ if st.session_state.current_card is None:
 card = st.session_state.current_card
 
 if card:
-    # Kart Görünümü
+    # Kart Görünümü (Kategori gizlendi)
     st.markdown(f"""
     <div class="main-card">
-        <span class="category-badge">{card['category']}</span>
         <div class="verb-text">{card['verb']}</div>
     </div>
     """, unsafe_allow_html=True)
@@ -222,7 +221,8 @@ if card:
             <div class="main-card" style="background: rgba(34, 197, 94, 0.2); border-color: #22c55e;">
                 <div style="font-size: 50px;">✅</div>
                 <h3 style="color: #4ade80;">DOĞRU!</h3>
-                <p style="font-style: italic; opacity: 0.9;">"{card['sentence']}"</p>
+                <span class="category-badge" style="display:inline-block; margin-top:10px;">{card['category']}</span>
+                <p style="font-style: italic; opacity: 0.9; margin-top: 10px;">"{card['sentence']}"</p>
                 <p style="font-weight: bold; margin-top: 10px;">{card['verb']} = {card['turkish']}</p>
             </div>
             """, unsafe_allow_html=True)
@@ -231,7 +231,8 @@ if card:
             <div class="main-card" style="background: rgba(239, 68, 68, 0.2); border-color: #ef4444;">
                 <div style="font-size: 50px;">❌</div>
                 <h3 style="color: #f87171;">YANLIŞ</h3>
-                <p style="font-style: italic; opacity: 0.9;">"{card['sentence']}"</p>
+                <span class="category-badge" style="display:inline-block; margin-top:10px;">{card['category']}</span>
+                <p style="font-style: italic; opacity: 0.9; margin-top: 10px;">"{card['sentence']}"</p>
                 <p style="font-weight: bold; margin-top: 10px;">Doğru Cevap: {card['turkish']}</p>
             </div>
             """, unsafe_allow_html=True)

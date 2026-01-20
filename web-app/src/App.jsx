@@ -207,10 +207,7 @@ function GameCard({ card, options, onAnswer, onNext, feedback, score, streak }) 
         transition={{ type: "spring", bounce: 0.5 }}
         className="glass-panel p-8 mb-6 min-h-[200px] flex flex-col justify-center items-center relative overflow-hidden"
       >
-        <span className="card-category text-xs bg-white/10 px-3 py-1 rounded-full mb-4">
-          {card.category}
-        </span>
-        <h2 className="card-title text-4xl mb-4">{card.verb}</h2>
+        <h2 className="card-title text-4xl mb-4 mt-8">{card.verb}</h2>
 
         {/* Feedback Overlay */}
         <AnimatePresence>
@@ -222,6 +219,11 @@ function GameCard({ card, options, onAnswer, onNext, feedback, score, streak }) 
                 ${feedback === 'correct' ? 'text-green-400' : 'text-red-400'}`}
             >
               {feedback === 'correct' ? <Check size={64} /> : <X size={64} />}
+
+              <span className="text-sm bg-white/10 px-3 py-1 rounded-full mt-4 text-white/70 uppercase tracking-widest">
+                {card.category}
+              </span>
+
               <p className="mt-4 text-white text-center px-4 italic opacity-90">
                 "{card.sentence}"
               </p>
