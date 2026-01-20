@@ -5596,5 +5596,1868 @@
     "id": 622,
     "weight": 100,
     "correct_count": 0
+  },
+  {
+    "verb": "interpret",
+    "turkish": "yorumlamak / tercüme etmek",
+    "sentence": "How do you interpret this poem?",
+    "category": "Mental",
+    "id": 623,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "distinguish",
+    "turkish": "ayırt etmek",
+    "sentence": "Can you distinguish between the two?",
+    "category": "Mental",
+    "id": 624,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "differentiate",
+    "turkish": "farklılaştırmak / ayrım yapmak",
+    "sentence": "It is hard to differentiate the twins.",
+    "category": "Mental",
+    "id": 625,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "comprehend",
+    "turkish": "kavramak / idrak etmek",
+    "sentence": "I cannot comprehend why he did that.",
+    "category": "Mental",
+    "id": 626,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "grasp",
+    "turkish": "kavramak (anlamak/tutmak)",
+    "sentence": "He finally grasped the main idea.",
+    "category": "Mental",
+    "id": 627,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "contemplate",
+    "turkish": "düşünüp taşınmak",
+    "sentence": "She contemplated her future.",
+    "category": "Mental",
+    "id": 628,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "ponder",
+    "turkish": "üzerinde düşünmek (kafa yormak)",
+    "sentence": "He pondered the question for a while.",
+    "category": "Mental",
+    "id": 629,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "recollect",
+    "turkish": "anımsamak",
+    "sentence": "I cannot recollect meeting him.",
+    "category": "Mental",
+    "id": 630,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "envision",
+    "turkish": "zihninde canlandırmak",
+    "sentence": "I envision a bright future.",
+    "category": "Mental",
+    "id": 631,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "predict",
+    "turkish": "tahmin etmek (gelecek)",
+    "sentence": "It is hard to predict the weather.",
+    "category": "Mental",
+    "id": 632,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "foresee",
+    "turkish": "öngörmek",
+    "sentence": "No one could foresee this tragedy.",
+    "category": "Mental",
+    "id": 633,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "speculate",
+    "turkish": "fikir yürütmek / spekülasyon yapmak",
+    "sentence": "We can only speculate about the reasons.",
+    "category": "Mental",
+    "id": 634,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "devise",
+    "turkish": "tasarlamak / icat etmek",
+    "sentence": "He devised a new plan.",
+    "category": "Mental",
+    "id": 635,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "formulate",
+    "turkish": "formüle etmek / oluşturmak",
+    "sentence": "They formulated a strategy.",
+    "category": "Mental",
+    "id": 636,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "determine",
+    "turkish": "belirlemek / kararlaştırmak",
+    "sentence": "We need to determine the cause.",
+    "category": "Mental",
+    "id": 637,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "resolve",
+    "turkish": "çözmek / karar vermek",
+    "sentence": "They resolved the issue quickly.",
+    "category": "Mental",
+    "id": 638,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "intend",
+    "turkish": "niyet etmek",
+    "sentence": "I intend to finish this today.",
+    "category": "Mental",
+    "id": 639,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "propose",
+    "turkish": "önermek / evlenme teklif etmek",
+    "sentence": "He proposed a better solution.",
+    "category": "Communication",
+    "id": 640,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "suggest",
+    "turkish": "tavsiye etmek / önermek",
+    "sentence": "I suggest you take a break.",
+    "category": "Communication",
+    "id": 641,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "recommend",
+    "turkish": "tavsiye etmek",
+    "sentence": "Can you recommend a good book?",
+    "category": "Communication",
+    "id": 642,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "advice",
+    "turkish": "tavsiye etmek",
+    "sentence": "I advise you to be careful.",
+    "category": "Communication",
+    "id": 643,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "urge",
+    "turkish": "teşvik etmek / ısrar etmek",
+    "sentence": "I urge you to reconsider.",
+    "category": "Communication",
+    "id": 644,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "forbid",
+    "turkish": "yasaklamak",
+    "sentence": "I forbid you to go there.",
+    "category": "Communication",
+    "id": 645,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "authorize",
+    "turkish": "yetki vermek",
+    "sentence": "Who authorized this purchase?",
+    "category": "Business",
+    "id": 646,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "approve",
+    "turkish": "onaylamak",
+    "sentence": "The committee approved the budget.",
+    "category": "Business",
+    "id": 647,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "assign",
+    "turkish": "atama yapmak / görevlendirmek",
+    "sentence": "The teacher assigned homework.",
+    "category": "Business",
+    "id": 648,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "appoint",
+    "turkish": "atamak (resmi)",
+    "sentence": "He was appointed as chairman.",
+    "category": "Business",
+    "id": 649,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "delegate",
+    "turkish": "görev devretmek",
+    "sentence": "A good manager delegates tasks.",
+    "category": "Business",
+    "id": 650,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "supervise",
+    "turkish": "denetlemek / gözetmek",
+    "sentence": "She supervises a team of ten.",
+    "category": "Business",
+    "id": 651,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "monitor",
+    "turkish": "izlemek / gözlemlemek",
+    "sentence": "We monitor the network traffic.",
+    "category": "Technology",
+    "id": 652,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "track",
+    "turkish": "takip etmek",
+    "sentence": "You can track your package online.",
+    "category": "Technology",
+    "id": 653,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "trace",
+    "turkish": "izini sürmek",
+    "sentence": "Police traced the call.",
+    "category": "Technology",
+    "id": 654,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "detect",
+    "turkish": "tespit etmek",
+    "sentence": "The sensor detects motion.",
+    "category": "Technology",
+    "id": 655,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "identify",
+    "turkish": "kimliğini/ne olduğunu belirlemek",
+    "sentence": "Can you identify this plant?",
+    "category": "Science",
+    "id": 656,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "classify",
+    "turkish": "sınıflandırmak",
+    "sentence": "Biologists classify animals.",
+    "category": "Science",
+    "id": 657,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "categorize",
+    "turkish": "kategorize etmek",
+    "sentence": "Please categorize these files.",
+    "category": "Science",
+    "id": 658,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "organize",
+    "turkish": "düzenlemek / organize etmek",
+    "sentence": "She organized the event.",
+    "category": "General",
+    "id": 659,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "arrange",
+    "turkish": "ayarlamak / düzenlemek",
+    "sentence": "I arranged a meeting.",
+    "category": "General",
+    "id": 660,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "prepare",
+    "turkish": "hazırlamak",
+    "sentence": "Prepare for the worst.",
+    "category": "General",
+    "id": 661,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "equip",
+    "turkish": "donatmak",
+    "sentence": "The car is equipped with GPS.",
+    "category": "Technology",
+    "id": 662,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "replace",
+    "turkish": "yerini değiştirmek / yenisiyle değiştirmek",
+    "sentence": "Replace the battery.",
+    "category": "General",
+    "id": 663,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "substitute",
+    "turkish": "yerine kullanmak",
+    "sentence": "You can substitute honey for sugar.",
+    "category": "Culinary",
+    "id": 664,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "swap",
+    "turkish": "değiş tokuş yapmak (hızlı)",
+    "sentence": "Let's swap seats.",
+    "category": "Social",
+    "id": 665,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "switch",
+    "turkish": "değiştirmek (yön/tercih)",
+    "sentence": "I switched to a better plan.",
+    "category": "General",
+    "id": 666,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "alter",
+    "turkish": "değiştirmek (kısmen)",
+    "sentence": "He altered his appearance.",
+    "category": "General",
+    "id": 667,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "modify",
+    "turkish": "modifiye etmek / değiştirmek",
+    "sentence": "We modified the design.",
+    "category": "Technology",
+    "id": 668,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "transform",
+    "turkish": "dönüştürmek",
+    "sentence": "The caterpillar transformed into a butterfly.",
+    "category": "Nature",
+    "id": 669,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "convert",
+    "turkish": "çevirmek / dönüştürmek",
+    "sentence": "Convert the file to PDF.",
+    "category": "Technology",
+    "id": 670,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "adjust",
+    "turkish": "ayarlamak (hassas)",
+    "sentence": "Adjust the volume.",
+    "category": "General",
+    "id": 671,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "control",
+    "turkish": "kontrol etmek",
+    "sentence": "Control your temper!",
+    "category": "Emotions",
+    "id": 672,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "dominate",
+    "turkish": "hükmetmek / baskın olmak",
+    "sentence": "They dominated the game.",
+    "category": "Sports",
+    "id": 673,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "influence",
+    "turkish": "etkilemek",
+    "sentence": "Weather influences plans.",
+    "category": "General",
+    "id": 674,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "affect",
+    "turkish": "etkilemek (olumsuz genelde)",
+    "sentence": "Smoking affects your health.",
+    "category": "Health",
+    "id": 675,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "impact",
+    "turkish": "etkilemek (darbe/güçlü etki)",
+    "sentence": "The crash impacted the economy.",
+    "category": "Business",
+    "id": 676,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "impress",
+    "turkish": "etkilemek (hayran bırakmak)",
+    "sentence": "He tried to impress her.",
+    "category": "Social",
+    "id": 677,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "inspire",
+    "turkish": "ilham vermek",
+    "sentence": "Nature inspires me.",
+    "category": "Arts",
+    "id": 678,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "motivate",
+    "turkish": "motive etmek",
+    "sentence": "Fear motivates him.",
+    "category": "Mental",
+    "id": 679,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "stimulate",
+    "turkish": "uyarmak / canlandırmak",
+    "sentence": "Coffee stimulates the brain.",
+    "category": "Health",
+    "id": 680,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "provoke",
+    "turkish": "kışkırtmak",
+    "sentence": "Don't provoke the dog.",
+    "category": "Social",
+    "id": 681,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "trigger",
+    "turkish": "tetiklemek",
+    "sentence": "Smoke triggers the alarm.",
+    "category": "Technology",
+    "id": 682,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "activate",
+    "turkish": "aktive etmek",
+    "sentence": "Activate coverage now.",
+    "category": "Technology",
+    "id": 683,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "enable",
+    "turkish": "olanak sağlamak / etkinleştirmek",
+    "sentence": "This tool enables file sharing.",
+    "category": "Technology",
+    "id": 684,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "disable",
+    "turkish": "devre dışı bırakmak",
+    "sentence": "Disable the alarm.",
+    "category": "Technology",
+    "id": 685,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hinder",
+    "turkish": "engel olmak / aksatmak",
+    "sentence": "Bad weather hindered rescue efforts.",
+    "category": "General",
+    "id": 686,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "prevent",
+    "turkish": "önlemek",
+    "sentence": "Vaccines prevent disease.",
+    "category": "Health",
+    "id": 687,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "avoid",
+    "turkish": "kaçınmak",
+    "sentence": "Avoid junk food.",
+    "category": "Health",
+    "id": 688,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "evade",
+    "turkish": "kaçmak / atlatmak (sorumluluk/kural)",
+    "sentence": "He tried to evade taxes.",
+    "category": "Law",
+    "id": 689,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "elude",
+    "turkish": "elinden kaçmak / aklına gelmemek",
+    "sentence": "The answer eluded me.",
+    "category": "Mental",
+    "id": 690,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "confront",
+    "turkish": "yüzleşmek",
+    "sentence": "You must confront your fears.",
+    "category": "Mental",
+    "id": 691,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "face",
+    "turkish": "yüzleşmek / dönük olmak",
+    "sentence": "Face the truth.",
+    "category": "Mental",
+    "id": 692,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "stumble",
+    "turkish": "tökezlemek",
+    "sentence": "He stumbled over a rock.",
+    "category": "Movement",
+    "id": 693,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "trip",
+    "turkish": "ayağı takılmak / çelme takmak",
+    "sentence": "Be careful not to trip.",
+    "category": "Movement",
+    "id": 694,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tumble",
+    "turkish": "yuvarlanmak / düşmek",
+    "sentence": "The rocks tumbled down the hill.",
+    "category": "Movement",
+    "id": 695,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "plunge",
+    "turkish": "dalmak (hızla suya/aşağı)",
+    "sentence": "The car plunged into the river.",
+    "category": "Movement",
+    "id": 696,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "soar",
+    "turkish": "süzülmek / hızla yükselmek",
+    "sentence": "The eagle soared in the sky.",
+    "category": "Nature",
+    "id": 697,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hover",
+    "turkish": "havada asılı kalmak",
+    "sentence": "The helicopter hovered above.",
+    "category": "Technology",
+    "id": 698,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "descend",
+    "turkish": "alçalmak / inmek",
+    "sentence": "The plane began to descend.",
+    "category": "Travel",
+    "id": 699,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "ascend",
+    "turkish": "yükselmek / çıkmak",
+    "sentence": "They ascended the throne.",
+    "category": "Abstract",
+    "id": 700,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "elevate",
+    "turkish": "yükseltmek",
+    "sentence": "Elevate your legs.",
+    "category": "Health",
+    "id": 701,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "lower",
+    "turkish": "alçaltmak/indirmek",
+    "sentence": "Lower the volume please.",
+    "category": "General",
+    "id": 702,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "raise",
+    "turkish": "kaldırmak / artırmak",
+    "sentence": "Raise your hand.",
+    "category": "General",
+    "id": 703,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hoist",
+    "turkish": "yukarı çekmek (vinç/ip ile)",
+    "sentence": "They hoisted the flag.",
+    "category": "General",
+    "id": 704,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "haul",
+    "turkish": "sürükleyerek çekmek / taşımak (ağır)",
+    "sentence": "Trucks haul cargo.",
+    "category": "Travel",
+    "id": 705,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tow",
+    "turkish": "çekmek (araç)",
+    "sentence": "My car was towed.",
+    "category": "Travel",
+    "id": 706,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shove",
+    "turkish": "itelemek (kaba)",
+    "sentence": "Don't shove me.",
+    "category": "Interaction",
+    "id": 707,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "propel",
+    "turkish": "itmek (ileri doğru)",
+    "sentence": "The engine propels the boat.",
+    "category": "Technology",
+    "id": 708,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "rotate",
+    "turkish": "döndürmek (ekseninde)",
+    "sentence": "Rotate the image.",
+    "category": "Technology",
+    "id": 709,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "revolve",
+    "turkish": "dönmek (yörüngede)",
+    "sentence": "Earth revolves around the Sun.",
+    "category": "Science",
+    "id": 710,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "twist",
+    "turkish": "bükmek / burkmak",
+    "sentence": "I twisted my ankle.",
+    "category": "Health",
+    "id": 711,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "squeeze",
+    "turkish": "sıkmak (el ile)",
+    "sentence": "Squeeze the lemon.",
+    "category": "Culinary",
+    "id": 712,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "crush",
+    "turkish": "ezmek",
+    "sentence": "Don't crush the box.",
+    "category": "General",
+    "id": 713,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "smash",
+    "turkish": "parçalamak (sertçe vurarak)",
+    "sentence": "He smashed the window.",
+    "category": "Conflict",
+    "id": 714,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shatter",
+    "turkish": "paramparça olmak",
+    "sentence": "The glass shattered.",
+    "category": "General",
+    "id": 715,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "crack",
+    "turkish": "çatlamak / çatlatmak",
+    "sentence": "The ice started to crack.",
+    "category": "General",
+    "id": 716,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "splinter",
+    "turkish": "kıymık gibi parçalanmak",
+    "sentence": "The wood splintered.",
+    "category": "General",
+    "id": 717,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "pierce",
+    "turkish": "delmek (iğne/ok vb)",
+    "sentence": "She pierced her ears.",
+    "category": "Fashion",
+    "id": 718,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "penetrate",
+    "turkish": "nüfuz etmek / içine girmek",
+    "sentence": "The rain penetrated his coat.",
+    "category": "General",
+    "id": 719,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "puncture",
+    "turkish": "delmek (lastik vb)",
+    "sentence": "A nail punctured the tire.",
+    "category": "Travel",
+    "id": 720,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "beat",
+    "turkish": "dövmek / yenmek / ritim tutmak",
+    "sentence": "Beat the eggs.",
+    "category": "Culinary",
+    "id": 721,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "scrape",
+    "turkish": "kazımak / sıyırmak",
+    "sentence": "I scraped my knee.",
+    "category": "Health",
+    "id": 722,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "rub",
+    "turkish": "ovalamak / sürtmek",
+    "sentence": "Rub your hands together.",
+    "category": "Body",
+    "id": 723,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "buff",
+    "turkish": "parlatmak (bezle)",
+    "sentence": "He buffed the car.",
+    "category": "Household",
+    "id": 724,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "chew",
+    "turkish": "çiğnemek",
+    "sentence": "Chew your food well.",
+    "category": "Body",
+    "id": 725,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "swallow",
+    "turkish": "yutmak",
+    "sentence": "It hurts to swallow.",
+    "category": "Health",
+    "id": 726,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bite",
+    "turkish": "ısırmak",
+    "sentence": "The dog might bite.",
+    "category": "Animals",
+    "id": 727,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "lick",
+    "turkish": "yalamak",
+    "sentence": "The cat licked its paw.",
+    "category": "Animals",
+    "id": 728,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "suck",
+    "turkish": "emmek",
+    "sentence": "Babies suck their thumbs.",
+    "category": "Body",
+    "id": 729,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sip",
+    "turkish": "yudumlamak",
+    "sentence": "She sipped her tea.",
+    "category": "Culinary",
+    "id": 730,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "gulp",
+    "turkish": "lıkır lıkır içmek / yutkunmak",
+    "sentence": "He gulped down the water.",
+    "category": "Culinary",
+    "id": 731,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "devour",
+    "turkish": "bir çırpıda yiyip bitirmek",
+    "sentence": "The lion devoured the prey.",
+    "category": "Nature",
+    "id": 732,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "nibble",
+    "turkish": "ufak ufak kemirmek/yemek",
+    "sentence": "A mouse nibbled the cheese.",
+    "category": "Animals",
+    "id": 733,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "drool",
+    "turkish": "salya akıtmak",
+    "sentence": "The baby drooled on the bib.",
+    "category": "Body",
+    "id": 734,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "choke",
+    "turkish": "boğulmak (nefessiz kalmak)",
+    "sentence": "He choked on a piece of meat.",
+    "category": "Health",
+    "id": 735,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "suffocate",
+    "turkish": "boğulmak ( havasızlıktan)",
+    "sentence": "The smoke suffocated them.",
+    "category": "Health",
+    "id": 736,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "drown",
+    "turkish": "boğulmak (suda)",
+    "sentence": "He almost drowned.",
+    "category": "Health",
+    "id": 737,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "gasp",
+    "turkish": "nefes nefese kalmak / şaşkınlıkla nefes almak",
+    "sentence": "She gasped at the sight.",
+    "category": "Emotions",
+    "id": 738,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "pant",
+    "turkish": "hızlı solumak (köpek vb)",
+    "sentence": "The dog was panting.",
+    "category": "Animals",
+    "id": 739,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "inhale",
+    "turkish": "içine çekmek (nefes)",
+    "sentence": "Inhale deeply.",
+    "category": "Health",
+    "id": 740,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "exhale",
+    "turkish": "nefes vermek",
+    "sentence": "Exhale slowly.",
+    "category": "Health",
+    "id": 741,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "blink",
+    "turkish": "göz kırpmak (istemsiz)",
+    "sentence": "Blink your eyes.",
+    "category": "Body",
+    "id": 742,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "gaze",
+    "turkish": "uzun uzun bakmak (hayranlıkla/dalıp)",
+    "sentence": "They gazed at the stars.",
+    "category": "Romance",
+    "id": 743,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "glare",
+    "turkish": "ters ters bakmak",
+    "sentence": "She glared at him.",
+    "category": "Emotions",
+    "id": 744,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "peek",
+    "turkish": "dikizlemek / gizlice bakmak",
+    "sentence": "Don't peek at the presents.",
+    "category": "General",
+    "id": 745,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "peep",
+    "turkish": "röntgenlemek / delikten bakmak",
+    "sentence": "He peeped through the keyhole.",
+    "category": "General",
+    "id": 746,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "notice",
+    "turkish": "fark etmek",
+    "sentence": "Did you notice the change?",
+    "category": "Mental",
+    "id": 747,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "spot",
+    "turkish": "fark etmek / görmek (zorlukla)",
+    "sentence": "I spotted him in the crowd.",
+    "category": "General",
+    "id": 748,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "overlook",
+    "turkish": "gözden kaçırmak / tepeden bakmak (manzara)",
+    "sentence": "Don't overlook the details.",
+    "category": "Mental",
+    "id": 749,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "neglect",
+    "turkish": "ihmal etmek",
+    "sentence": "He neglected his duties.",
+    "category": "General",
+    "id": 750,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "discard",
+    "turkish": "atmak / ıskarta etmek",
+    "sentence": "Discard the empty box.",
+    "category": "General",
+    "id": 751,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "vanish",
+    "turkish": "ortadan kaybolmak",
+    "sentence": "The magician made the coin vanish.",
+    "category": "General",
+    "id": 752,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "disappear",
+    "turkish": "gözden kaybolmak",
+    "sentence": "The sun disappeared behind clouds.",
+    "category": "General",
+    "id": 753,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "fade",
+    "turkish": "solmak / sönmek",
+    "sentence": "Memories fade over time.",
+    "category": "General",
+    "id": 754,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "emerge",
+    "turkish": "ortaya çıkmak",
+    "sentence": "The truth will emerge.",
+    "category": "General",
+    "id": 755,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "arise",
+    "turkish": "ortaya çıkmak / doğmak (sorun)",
+    "sentence": "Problems may arise.",
+    "category": "General",
+    "id": 756,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "originate",
+    "turkish": "köken almak / başlamak",
+    "sentence": "The river originates in the mountains.",
+    "category": "Nature",
+    "id": 757,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "stem",
+    "turkish": "kaynaklanmak (-den)",
+    "sentence": "His anger stems from fear.",
+    "category": "General",
+    "id": 758,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "result",
+    "turkish": "sonuçlanmak",
+    "sentence": "Carelessness results in accidents.",
+    "category": "General",
+    "id": 759,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "cause",
+    "turkish": "sebep olmak",
+    "sentence": "What caused the fire?",
+    "category": "General",
+    "id": 760,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "create",
+    "turkish": "yaratmak",
+    "sentence": "God created the world.",
+    "category": "General",
+    "id": 761,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "generate",
+    "turkish": "üretmek (elektrik/fikir)",
+    "sentence": "Wind turbines generate power.",
+    "category": "Technology",
+    "id": 762,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "ruin",
+    "turkish": "mahvetmek",
+    "sentence": "Rain ruined the picnic.",
+    "category": "General",
+    "id": 763,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "damage",
+    "turkish": "zarar vermek",
+    "sentence": "Smoking damages lungs.",
+    "category": "Health",
+    "id": 764,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "harm",
+    "turkish": "zarar vermek / incitmek",
+    "sentence": "Do no harm.",
+    "category": "Ethics",
+    "id": 765,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hurt",
+    "turkish": "acıtmak / incitmek",
+    "sentence": "My leg hurts.",
+    "category": "Health",
+    "id": 766,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "injure",
+    "turkish": "yaralamak",
+    "sentence": "He was injured in the crash.",
+    "category": "Health",
+    "id": 767,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wound",
+    "turkish": "yaralamak (silahla)",
+    "sentence": "The soldier was wounded.",
+    "category": "Conflict",
+    "id": 768,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "endure",
+    "turkish": "katlanmak / dayanmak",
+    "sentence": "She endured much pain.",
+    "category": "Mental",
+    "id": 769,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tolerate",
+    "turkish": "tahammül etmek",
+    "sentence": "I cannot tolerate lies.",
+    "category": "Mental",
+    "id": 770,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bear",
+    "turkish": "katlanmak / taşımak",
+    "sentence": "I can't bear the suspense.",
+    "category": "Mental",
+    "id": 771,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "undergo",
+    "turkish": "maruz kalmak / geçirmek (ameliyat vb)",
+    "sentence": "He underwent surgery.",
+    "category": "Health",
+    "id": 772,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "experience",
+    "turkish": "deneyimlemek / yaşamak",
+    "sentence": "We experienced some difficulties.",
+    "category": "General",
+    "id": 773,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "encounter",
+    "turkish": "karşılaşmak (zorluk/kişi)",
+    "sentence": "We encountered a bear.",
+    "category": "Travel",
+    "id": 774,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "challenge",
+    "turkish": "meydan okumak",
+    "sentence": "I challenge you to a race.",
+    "category": "Social",
+    "id": 775,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "dare",
+    "turkish": "cesaret etmek",
+    "sentence": "How dare you?",
+    "category": "Social",
+    "id": 776,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "risk",
+    "turkish": "riske atmak",
+    "sentence": "Don't risk your life.",
+    "category": "General",
+    "id": 777,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "gamble",
+    "turkish": "kumar oynamak",
+    "sentence": "He gambled away his fortune.",
+    "category": "Social",
+    "id": 778,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bet",
+    "turkish": "bahse girmek",
+    "sentence": "I bet he wins.",
+    "category": "Social",
+    "id": 779,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "gain",
+    "turkish": "kazanmak (kilo/tecrübe)",
+    "sentence": "She gained weight.",
+    "category": "Health",
+    "id": 780,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "earn",
+    "turkish": "kazanmak (para/hak)",
+    "sentence": "He earns a good salary.",
+    "category": "Business",
+    "id": 781,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "deserve",
+    "turkish": "hak etmek",
+    "sentence": "You deserve a break.",
+    "category": "General",
+    "id": 782,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "justify",
+    "turkish": "haklı çıkarmak / gerekçelendirmek",
+    "sentence": "Can you justify your actions?",
+    "category": "Logic",
+    "id": 783,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "excuse",
+    "turkish": "mazur görmek / bahane bulmak",
+    "sentence": "Excuse me.",
+    "category": "Social",
+    "id": 784,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "pardon",
+    "turkish": "affetmek (resmi)",
+    "sentence": "The governor pardoned the prisoner.",
+    "category": "Law",
+    "id": 785,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "absolve",
+    "turkish": "aklamak / günahtan arındırmak",
+    "sentence": "The court absolved him.",
+    "category": "Law",
+    "id": 786,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "convict",
+    "turkish": "suçlu bulmak",
+    "sentence": "He was convicted of fraud.",
+    "category": "Law",
+    "id": 787,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "acquit",
+    "turkish": "beraat ettirmek",
+    "sentence": "The jury acquitted her.",
+    "category": "Law",
+    "id": 788,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "release",
+    "turkish": "serbest bırakmak",
+    "sentence": "They released the bird.",
+    "category": "General",
+    "id": 789,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "free",
+    "turkish": "özgür bırakmak",
+    "sentence": "Free the hostages.",
+    "category": "Conflict",
+    "id": 790,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "capture",
+    "turkish": "ele geçirmek / yakalamak",
+    "sentence": "Capture the moment.",
+    "category": "General",
+    "id": 791,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "seize",
+    "turkish": "el koymak / kavramak (fırsat)",
+    "sentence": "Seize the day.",
+    "category": "General",
+    "id": 792,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "confiscate",
+    "turkish": "müsadere etmek / el koymak",
+    "sentence": "Teacher confiscated the toy.",
+    "category": "School",
+    "id": 793,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "detain",
+    "turkish": "alıkoymak / gözaltına almak",
+    "sentence": "Police detained the suspect.",
+    "category": "Law",
+    "id": 794,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "imprison",
+    "turkish": "hapsetmek",
+    "sentence": "He was imprisoned for life.",
+    "category": "Law",
+    "id": 795,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "punish",
+    "turkish": "cezalandırmak",
+    "sentence": "Don't punish the whole class.",
+    "category": "School",
+    "id": 796,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "discipline",
+    "turkish": "disipline etmek",
+    "sentence": "Parents must discipline kids.",
+    "category": "Family",
+    "id": 797,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "educate",
+    "turkish": "eğitmek",
+    "sentence": "Schools educate children.",
+    "category": "School",
+    "id": 798,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "instruct",
+    "turkish": "talimat vermek / öğretmek",
+    "sentence": "Instruct them on safety.",
+    "category": "Business",
+    "id": 799,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tutor",
+    "turkish": "özel ders vermek",
+    "sentence": "She tutors math.",
+    "category": "School",
+    "id": 800,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "coach",
+    "turkish": "koçluk yapmak",
+    "sentence": "He coaches football.",
+    "category": "Sports",
+    "id": 801,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "practice",
+    "turkish": "pratik yapmak",
+    "sentence": "Practice makes perfect.",
+    "category": "General",
+    "id": 802,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "rehearse",
+    "turkish": "prova yapmak",
+    "sentence": "They rehearsed the play.",
+    "category": "Arts",
+    "id": 803,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "repeat",
+    "turkish": "tekrar etmek",
+    "sentence": "Please repeat that.",
+    "category": "Communication",
+    "id": 804,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "recite",
+    "turkish": "ezberden okumak",
+    "sentence": "Recite the poem.",
+    "category": "Arts",
+    "id": 805,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "scribble",
+    "turkish": "karalamak",
+    "sentence": "He scribbled a note.",
+    "category": "General",
+    "id": 806,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sign",
+    "turkish": "imzalamak / işaret yapmak",
+    "sentence": "Sign here.",
+    "category": "Business",
+    "id": 807,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "type",
+    "turkish": "daktilo etmek / yazmak (klavye)",
+    "sentence": "Type the password.",
+    "category": "Technology",
+    "id": 808,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "text",
+    "turkish": "mesaj atmak",
+    "sentence": "Text me later.",
+    "category": "Technology",
+    "id": 809,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "email",
+    "turkish": "e-posta atmak",
+    "sentence": "Email the report.",
+    "category": "Technology",
+    "id": 810,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "call",
+    "turkish": "aramak (telefon) / çağırmak",
+    "sentence": "Call me.",
+    "category": "Communication",
+    "id": 811,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "dial",
+    "turkish": "tuşlamak (numara)",
+    "sentence": "Dial 911.",
+    "category": "Technology",
+    "id": 812,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hang up",
+    "turkish": "telefonu kapatmak",
+    "sentence": "Don't hang up.",
+    "category": "Communication",
+    "id": 813,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "ring",
+    "turkish": "çalmak (zil/telefon)",
+    "sentence": "The phone is ringing.",
+    "category": "Technology",
+    "id": 814,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "vibrate",
+    "turkish": "titremek (telefon)",
+    "sentence": "It vibrated in my pocket.",
+    "category": "Technology",
+    "id": 815,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "alert",
+    "turkish": "uyarmak / alarma geçirmek",
+    "sentence": "Alert the authorities.",
+    "category": "Law",
+    "id": 816,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "alarm",
+    "turkish": "telaşlandırmak",
+    "sentence": "Don't alarm the guests.",
+    "category": "Emotions",
+    "id": 817,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "panic",
+    "turkish": "paniğe kapılmak",
+    "sentence": "Don't panic.",
+    "category": "Emotions",
+    "id": 818,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "calm",
+    "turkish": "sakinleştirmek",
+    "sentence": "Calm down.",
+    "category": "Emotions",
+    "id": 819,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "soothe",
+    "turkish": "yatıştırmak / hafifletmek",
+    "sentence": "Music soothes the soul.",
+    "category": "Health",
+    "id": 820,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "comfort",
+    "turkish": "teselli etmek",
+    "sentence": "She comforted the crying child.",
+    "category": "Emotions",
+    "id": 821,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "console",
+    "turkish": "avutmak",
+    "sentence": "No one could console him.",
+    "category": "Emotions",
+    "id": 822,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "reassure",
+    "turkish": "güvence vermek / içini rahatlatmak",
+    "sentence": "He reassured me.",
+    "category": "Communication",
+    "id": 823,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "assist",
+    "turkish": "yardımcı olmak / asist yapmak",
+    "sentence": "Can I assist you?",
+    "category": "General",
+    "id": 824,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "help",
+    "turkish": "yardım etmek",
+    "sentence": "Help me!",
+    "category": "General",
+    "id": 825,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "aid",
+    "turkish": "yardım etmek (resmi/maddi)",
+    "sentence": "They aid poor countries.",
+    "category": "Politics",
+    "id": 826,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "back",
+    "turkish": "arka çıkmak / geri gitmek",
+    "sentence": "Back your team.",
+    "category": "Social",
+    "id": 827,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "cooperate",
+    "turkish": "işbirliği yapmak",
+    "sentence": "We must cooperate.",
+    "category": "Business",
+    "id": 828,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "collaborate",
+    "turkish": "ortak çalışmak",
+    "sentence": "Artists collaborate.",
+    "category": "Arts",
+    "id": 829,
+    "weight": 100,
+    "correct_count": 0
   }
 ]
