@@ -23,57 +23,59 @@ st.markdown("""
         background: rgba(255, 255, 255, 0.05);
         backdrop-filter: blur(12px);
         border: 1px solid rgba(255, 255, 255, 0.1);
-        border-radius: 20px;
-        padding: 30px;
+        border-radius: 15px;
+        padding: 15px; /* Reduced padding */
         text-align: center;
-        margin-bottom: 20px;
-        box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+        margin-bottom: 10px; /* Reduced margin */
+        box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.37);
     }
     .verb-text {
-        font-size: 3em;
+        font-size: 2em; /* Reduced font size */
         font-weight: 800;
         background: -webkit-linear-gradient(315deg, #42d392 25%, #647eff);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
-        margin: 10px 0;
+        margin: 5px 0;
     }
     .category-badge {
         background: rgba(255, 255, 255, 0.1);
-        padding: 5px 15px;
-        border-radius: 15px;
-        font-size: 0.8em;
+        padding: 3px 10px;
+        border-radius: 10px;
+        font-size: 0.7em;
         letter-spacing: 1px;
         text-transform: uppercase;
         color: #94a3b8;
     }
     .stButton button {
         width: 100%;
-        border-radius: 12px;
-        height: 60px;
-        font-size: 18px;
+        border-radius: 10px;
+        height: 45px; /* Reduced height */
+        font-size: 15px; /* Reduced font size */
         font-weight: 600;
         background-color: white;
         color: #1e293b;
         border: none;
+        padding: 5px;
         transition: all 0.2s;
     }
     .stButton button:hover {
-        transform: scale(1.02);
+        transform: scale(1.01);
         background-color: #f1f5f9;
         color: #0f172a;
         border: none;
     }
     /* Geri bildirim renkleri */
-    .success-msg { color: #4ade80; font-weight: bold; font-size: 1.2em; text-align: center; padding: 20px; }
-    .error-msg { color: #f87171; font-weight: bold; font-size: 1.2em; text-align: center; padding: 20px; }
+    .success-msg { color: #4ade80; font-weight: bold; font-size: 1em; text-align: center; padding: 10px; }
+    .error-msg { color: #f87171; font-weight: bold; font-size: 1em; text-align: center; padding: 10px; }
     
     .stats-container {
         display: flex;
         justify-content: space-between;
-        padding: 10px;
+        padding: 8px;
         background: rgba(0,0,0,0.2);
-        border-radius: 10px;
-        margin-bottom: 20px;
+        border-radius: 8px;
+        margin-bottom: 15px;
+        font-size: 0.9em;
     }
 </style>
 """, unsafe_allow_html=True)
