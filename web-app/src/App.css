@@ -1,0 +1,169 @@
+:root {
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.4;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  /* Center vertically if possible */
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100dvh;
+  /* Mobile friendly viewport */
+  background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%);
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  max-width: 480px;
+  /* narrowed for better mobile look on desktop too */
+  margin: 0 auto;
+  padding: 0.5rem;
+  /* Reduced padding */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100dvh;
+}
+
+/* Glassmorphism Utilities */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  /* Slightly smaller radius */
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  padding: 1.5rem !important;
+  /* Force smaller padding overrides */
+}
+
+.glass-button {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  transition: all 0.2s ease;
+}
+
+.glass-button:active {
+  transform: scale(0.96);
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Typography */
+h1 {
+  font-size: 2em;
+  /* Reduced */
+  line-height: 1.1;
+  background: -webkit-linear-gradient(315deg, #42d392 25%, #647eff);
+  background-clip: text;
+  /* Standard property added */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.25rem;
+}
+
+.card-title {
+  font-size: 1.8rem;
+  /* Reduced */
+  font-weight: 800;
+  color: #fff;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+  margin-bottom: 5px;
+  word-wrap: break-word;
+}
+
+.card-category {
+  font-size: 0.75rem;
+  /* Reduced */
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #94a3b8;
+  margin-bottom: 1rem;
+}
+
+/* Options Grid */
+.options-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  /* Reduced gap */
+  width: 100%;
+  margin-top: 1.5rem;
+}
+
+.option-btn {
+  padding: 14px;
+  /* Reduced padding */
+  border-radius: 10px;
+  font-size: 1rem;
+  /* Reduced font size */
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  background: white;
+  color: #1e293b;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: transform 0.1s, background 0.2s;
+  touch-action: manipulation;
+  /* Improves touch response */
+}
+
+.option-btn.correct {
+  background: #22c55e !important;
+  color: white !important;
+}
+
+.option-btn.wrong {
+  background: #ef4444 !important;
+  color: white !important;
+}
+
+/* Mobile specific tweaks */
+@media (max-height: 700px) {
+  .glass-panel {
+    padding: 1rem !important;
+    min-height: 160px !important;
+  }
+
+  .card-title {
+    font-size: 1.5rem;
+  }
+
+  .option-btn {
+    padding: 12px;
+  }
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out forwards;
+}

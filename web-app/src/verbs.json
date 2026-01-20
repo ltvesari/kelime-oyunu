@@ -1,0 +1,5600 @@
+[
+  {
+    "id": 1,
+    "verb": "run",
+    "turkish": "koşmak",
+    "sentence": "I run every morning to stay fit.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 2,
+    "verb": "lift",
+    "turkish": "kaldırmak",
+    "sentence": "He can lift 100 kilograms easily.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 3,
+    "verb": "stretch",
+    "turkish": "esnemek",
+    "sentence": "Always stretch before exercising.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 4,
+    "verb": "jump",
+    "turkish": "zıplamak",
+    "sentence": "The athlete can jump very high.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 5,
+    "verb": "squat",
+    "turkish": "çömelmek",
+    "sentence": "Squats are great for your leg muscles.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 6,
+    "verb": "push",
+    "turkish": "itmek",
+    "sentence": "Push yourself to the limit during the workout.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 7,
+    "verb": "pull",
+    "turkish": "çekmek",
+    "sentence": "Pull the bar down towards your chest.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 8,
+    "verb": "breathe",
+    "turkish": "nefes almak",
+    "sentence": "Remember to breathe deeply during yoga.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 9,
+    "verb": "sweat",
+    "turkish": "terlemek",
+    "sentence": "A good workout makes you sweat.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 10,
+    "verb": "train",
+    "turkish": "antrenman yapmak",
+    "sentence": "She trains five days a week for the marathon.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 11,
+    "verb": "exercise",
+    "turkish": "egzersiz yapmak",
+    "sentence": "Doctors recommend we exercise regularly.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 12,
+    "verb": "hydrate",
+    "turkish": "su içmek (vücudun su ihtiyacını karşılamak)",
+    "sentence": "It is important to hydrate after running.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 13,
+    "verb": "warm up",
+    "turkish": "ısınmak",
+    "sentence": "Let's warm up before we start the match.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 14,
+    "verb": "cool down",
+    "turkish": "soğumak",
+    "sentence": "Don't forget to cool down after your run.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 15,
+    "verb": "flex",
+    "turkish": "kasmak (kas)",
+    "sentence": "He likes to flex his muscles in the mirror.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 16,
+    "verb": "jog",
+    "turkish": "hafif koşu yapmak",
+    "sentence": "My parents jog around the park every evening.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 17,
+    "verb": "sprint",
+    "turkish": "depar atmak",
+    "sentence": "Can you sprint to the finish line?",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 18,
+    "verb": "balance",
+    "turkish": "dengede durmak",
+    "sentence": "Try to balance on one leg for a minute.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 19,
+    "verb": "bend",
+    "turkish": "eğilmek",
+    "sentence": "Bend your knees when lifting heavy objects.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 20,
+    "verb": "recover",
+    "turkish": "iyileşmek / toparlanmak",
+    "sentence": "Rest allows your muscles to recover.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 21,
+    "verb": "climb",
+    "turkish": "tırmanmak",
+    "sentence": "We plan to climb the mountain this weekend.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 22,
+    "verb": "swim",
+    "turkish": "yüzmek",
+    "sentence": "Swimming is great cardiovascular exercise.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 23,
+    "verb": "cycle",
+    "turkish": "bisiklet sürmek",
+    "sentence": "I cycle to work to stay healthy.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 24,
+    "verb": "hike",
+    "turkish": "doğa yürüyüşü yapmak",
+    "sentence": "They love to hike in the forest.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 25,
+    "verb": "plank",
+    "turkish": "plank yapmak (düz duruş)",
+    "sentence": "Hold the plank position for 30 seconds.",
+    "category": "Fitness",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 26,
+    "verb": "eat",
+    "turkish": "yemek yemek",
+    "sentence": "What time do you usually eat dinner?",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 27,
+    "verb": "drink",
+    "turkish": "içmek",
+    "sentence": "I drink coffee every morning.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 28,
+    "verb": "sleep",
+    "turkish": "uyumak",
+    "sentence": "I try to sleep at least 8 hours a night.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 29,
+    "verb": "wake up",
+    "turkish": "uyanmak",
+    "sentence": "I wake up early on weekdays.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 30,
+    "verb": "talk",
+    "turkish": "konuşmak",
+    "sentence": "She loves to talk about movies.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 31,
+    "verb": "listen",
+    "turkish": "dinlemek",
+    "sentence": "Please listen carefully to the instructions.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 32,
+    "verb": "read",
+    "turkish": "okumak",
+    "sentence": "I like to read books before bed.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 33,
+    "verb": "write",
+    "turkish": "yazmak",
+    "sentence": "He writes emails to his colleagues.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 34,
+    "verb": "work",
+    "turkish": "çalışmak",
+    "sentence": "Where do you work?",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 35,
+    "verb": "study",
+    "turkish": "ders çalışmak",
+    "sentence": "Students must study hard for exams.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 36,
+    "verb": "cook",
+    "turkish": "yemek pişirmek",
+    "sentence": "My father loves to cook pasta.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 37,
+    "verb": "clean",
+    "turkish": "temizlemek",
+    "sentence": "We clean the house every Saturday.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 38,
+    "verb": "drive",
+    "turkish": "araba sürmek",
+    "sentence": "Can you drive a manual car?",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 39,
+    "verb": "walk",
+    "turkish": "yürümek",
+    "sentence": "I walk to school every day.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 40,
+    "verb": "watch",
+    "turkish": "izlemek",
+    "sentence": "Did you watch the game last night?",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 41,
+    "verb": "buy",
+    "turkish": "satın almak",
+    "sentence": "I need to buy some groceries.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 42,
+    "verb": "sell",
+    "turkish": "satmak",
+    "sentence": "He decided to sell his old car.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 43,
+    "verb": "pay",
+    "turkish": "ödemek",
+    "sentence": "Who will pay the bill?",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 44,
+    "verb": "meet",
+    "turkish": "buluşmak / tanışmak",
+    "sentence": "Let's meet at the cafe at 5 PM.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 45,
+    "verb": "ask",
+    "turkish": "sormak",
+    "sentence": "Don't be afraid to ask questions.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 46,
+    "verb": "answer",
+    "turkish": "cevaplamak",
+    "sentence": "She answered all the questions correctly.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 47,
+    "verb": "think",
+    "turkish": "düşünmek",
+    "sentence": "I think it will rain today.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 1
+  },
+  {
+    "id": 48,
+    "verb": "know",
+    "turkish": "bilmek",
+    "sentence": "Do you know the way to the station?",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 49,
+    "verb": "remember",
+    "turkish": "hatırlamak",
+    "sentence": "I can't remember his name.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 50,
+    "verb": "forget",
+    "turkish": "unutmak",
+    "sentence": "Don't forget to lock the door.",
+    "category": "Daily Conversation",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 51,
+    "verb": "manage",
+    "turkish": "yönetmek",
+    "sentence": "She manages a team of twenty people.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 52,
+    "verb": "lead",
+    "turkish": "liderlik etmek",
+    "sentence": "He was chosen to lead the project.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 53,
+    "verb": "negotiate",
+    "turkish": "pazarlık etmek",
+    "sentence": "They need to negotiate a better deal.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 54,
+    "verb": "invest",
+    "turkish": "yatırım yapmak",
+    "sentence": "It is wise to invest in renewable energy.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 55,
+    "verb": "employ",
+    "turkish": "işe almak / çalıştırmak",
+    "sentence": "The factory employs over 500 workers.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 56,
+    "verb": "resign",
+    "turkish": "istifa etmek",
+    "sentence": "He decided to resign from his position.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 57,
+    "verb": "fire",
+    "turkish": "kovmak (işten çıkarmak)",
+    "sentence": "The boss had to fire him for being late.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 58,
+    "verb": "hire",
+    "turkish": "işe almak",
+    "sentence": "They plan to hire three new engineers.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 59,
+    "verb": "promote",
+    "turkish": "terfi ettirmek",
+    "sentence": "She was promoted to manager last month.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 60,
+    "verb": "market",
+    "turkish": "pazarlamak",
+    "sentence": "They market their products globally.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 61,
+    "verb": "advertise",
+    "turkish": "reklam yapmak",
+    "sentence": "We need to advertise on social media.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 62,
+    "verb": "calculate",
+    "turkish": "hesaplamak",
+    "sentence": "Please calculate the total cost.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 63,
+    "verb": "estimate",
+    "turkish": "tahmin etmek (değer/miktar)",
+    "sentence": "They estimate the project will take two months.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 64,
+    "verb": "produce",
+    "turkish": "üretmek",
+    "sentence": "This factory produces cars.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 65,
+    "verb": "deliver",
+    "turkish": "teslim etmek",
+    "sentence": "They promise to deliver within 24 hours.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 66,
+    "verb": "order",
+    "turkish": "sipariş etmek",
+    "sentence": "I would like to order some office supplies.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 67,
+    "verb": "supply",
+    "turkish": "tedarik etmek",
+    "sentence": "We supply parts to major car manufacturers.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 68,
+    "verb": "expand",
+    "turkish": "genişlemek",
+    "sentence": "The company wants to expand into Asia.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 69,
+    "verb": "reduce",
+    "turkish": "azaltmak",
+    "sentence": "We must reduce our expenses.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 70,
+    "verb": "succeed",
+    "turkish": "başarmak",
+    "sentence": "Hard work helps you succeed.",
+    "category": "Business",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 71,
+    "verb": "travel",
+    "turkish": "seyahat etmek",
+    "sentence": "I love to travel to new countries.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 72,
+    "verb": "fly",
+    "turkish": "uçmak",
+    "sentence": "We fly to London tomorrow.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 73,
+    "verb": "depart",
+    "turkish": "ayrılmak / hareket etmek",
+    "sentence": "The train departs at 9 AM.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 74,
+    "verb": "arrive",
+    "turkish": "varmak",
+    "sentence": "We will arrive at the hotel shortly.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 75,
+    "verb": "board",
+    "turkish": "binmek (gemi/uçak/tren)",
+    "sentence": "Passengers are now boarding the plane.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 76,
+    "verb": "land",
+    "turkish": "inmek (uçak)",
+    "sentence": "The plane will land in 10 minutes.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 77,
+    "verb": "book",
+    "turkish": "rezervasyon yapmak",
+    "sentence": "I need to book a hotel room.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 78,
+    "verb": "explore",
+    "turkish": "keşfetmek",
+    "sentence": "Let's explore the city center.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 79,
+    "verb": "visit",
+    "turkish": "ziyaret etmek",
+    "sentence": "We visited the museum yesterday.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 80,
+    "verb": "pack",
+    "turkish": "bavul hazırlamak / paketlemek",
+    "sentence": "Have you packed your bags yet?",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 81,
+    "verb": "guide",
+    "turkish": "rehberlik etmek / yol göstermek",
+    "sentence": "The local guided us through the mountains.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 82,
+    "verb": "sail",
+    "turkish": "yelken açmak",
+    "sentence": "They sailed across the Atlantic.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 83,
+    "verb": "cancel",
+    "turkish": "iptal etmek",
+    "sentence": "I had to cancel my flight.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 84,
+    "verb": "delay",
+    "turkish": "geciktirmek / ertelemek",
+    "sentence": "Bad weather delayed our departure.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 85,
+    "verb": "confirm",
+    "turkish": "onaylamak",
+    "sentence": "Please confirm your reservation.",
+    "category": "Travel",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 86,
+    "verb": "learn",
+    "turkish": "öğrenmek",
+    "sentence": "I want to learn Spanish.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 87,
+    "verb": "teach",
+    "turkish": "öğretmek",
+    "sentence": "He teaches physics at the university.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 88,
+    "verb": "research",
+    "turkish": "araştırmak",
+    "sentence": "Scientists are researching a cure.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 89,
+    "verb": "analyze",
+    "turkish": "analiz etmek",
+    "sentence": "We must analyze the data carefully.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 90,
+    "verb": "experiment",
+    "turkish": "deney yapmak",
+    "sentence": "They experimented with new chemicals.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 91,
+    "verb": "observe",
+    "turkish": "gözlemlemek",
+    "sentence": "Observe how the chemical reacts.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 92,
+    "verb": "conclude",
+    "turkish": "sonuçlandırmak",
+    "sentence": "What can we conclude from these results?",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 93,
+    "verb": "graduate",
+    "turkish": "mezun olmak",
+    "sentence": "She will graduate next year.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 94,
+    "verb": "fail",
+    "turkish": "balarısız olmak / kalmak",
+    "sentence": "If you don't study, you will fail the test.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 95,
+    "verb": "pass",
+    "turkish": "geçmek (sınav/ders)",
+    "sentence": "I hope I pass the exam.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 96,
+    "verb": "discuss",
+    "turkish": "tartışmak (fikir alışverişi)",
+    "sentence": "We discussed the problem for hours.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 97,
+    "verb": "argue",
+    "turkish": "tartışmak (kavga/savunma)",
+    "sentence": "They argue about politics all the time.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 98,
+    "verb": "present",
+    "turkish": "sunmak",
+    "sentence": "He will present his findings tomorrow.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 99,
+    "verb": "review",
+    "turkish": "gözden geçirmek",
+    "sentence": "Let's review what we learned.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 100,
+    "verb": "memorize",
+    "turkish": "ezberlemek",
+    "sentence": "You need to memorize these vocabulary words.",
+    "category": "Academic",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 101,
+    "verb": "program",
+    "turkish": "programlamak",
+    "sentence": "I need to program this robot.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 102,
+    "verb": "code",
+    "turkish": "kodlamak",
+    "sentence": "She codes in Python every day.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 103,
+    "verb": "install",
+    "turkish": "yüklemek (yazılım)",
+    "sentence": "Please install the latest updates.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 104,
+    "verb": "delete",
+    "turkish": "silmek",
+    "sentence": "Don't delete that file accidentally.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 105,
+    "verb": "save",
+    "turkish": "kaydetmek",
+    "sentence": "Remember to save your work frequently.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 106,
+    "verb": "upload",
+    "turkish": "yüklemek (internete)",
+    "sentence": "I will upload the photos to the cloud.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 107,
+    "verb": "download",
+    "turkish": "indirmek",
+    "sentence": "You can download the app for free.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 108,
+    "verb": "click",
+    "turkish": "tıklamak",
+    "sentence": "Click the button to continue.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 109,
+    "verb": "press",
+    "turkish": "basmak (tuşa)",
+    "sentence": "Press the Enter key.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 110,
+    "verb": "connect",
+    "turkish": "bağlanmak",
+    "sentence": "I cannot connect to the Wi-Fi.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 111,
+    "verb": "disconnect",
+    "turkish": "bağlantıyı kesmek",
+    "sentence": "He disconnected the phone suddenly.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 112,
+    "verb": "update",
+    "turkish": "güncellemek",
+    "sentence": "The system will update automatically.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 113,
+    "verb": "upgrade",
+    "turkish": "yükseltmek (donanım/yazılım)",
+    "sentence": "It's time to upgrade your computer.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 114,
+    "verb": "crash",
+    "turkish": "çökmek (bilgisayar)",
+    "sentence": "My browser keeps crashing.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 115,
+    "verb": "reboot",
+    "turkish": "yeniden başlatmak",
+    "sentence": "Try to reboot the router.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 116,
+    "verb": "scan",
+    "turkish": "taramak",
+    "sentence": "Scan the document and email it to me.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 117,
+    "verb": "print",
+    "turkish": "yazdırmak",
+    "sentence": "I need to print my ticket.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 118,
+    "verb": "debug",
+    "turkish": "hata ayıklamak",
+    "sentence": "It took hours to debug the code.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 119,
+    "verb": "browse",
+    "turkish": "göz atmak (internet)",
+    "sentence": "She likes to browse online shops.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 120,
+    "verb": "configure",
+    "turkish": "yapılandırmak",
+    "sentence": "We must configure the improved settings.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 121,
+    "verb": "stream",
+    "turkish": "yayın akışı yapmak / izlemek",
+    "sentence": "They stream movies every weekend.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 122,
+    "verb": "hack",
+    "turkish": "hacklemek / sızmak",
+    "sentence": "Someone tried to hack his account.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 123,
+    "verb": "encrypt",
+    "turkish": "şifrelemek",
+    "sentence": "All data should be encrypted.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 124,
+    "verb": "login",
+    "turkish": "giriş yapmak",
+    "sentence": "Please login with your username.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 125,
+    "verb": "logout",
+    "turkish": "çıkış yapmak",
+    "sentence": "Don't forget to logout.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 126,
+    "verb": "backup",
+    "turkish": "yedeklemek",
+    "sentence": "Backup your files regularly.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 127,
+    "verb": "format",
+    "turkish": "biçimlendirmek",
+    "sentence": "I had to format the hard drive.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 128,
+    "verb": "attach",
+    "turkish": "eklemek (dosya)",
+    "sentence": "I attached the report to the email.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 129,
+    "verb": "forward",
+    "turkish": "iletmek",
+    "sentence": "Please forward this message to him.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 130,
+    "verb": "reply",
+    "turkish": "cevaplamak (e-posta/mesaj)",
+    "sentence": "I will reply as soon as possible.",
+    "category": "Technology",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 131,
+    "verb": "smile",
+    "turkish": "gülümsemek",
+    "sentence": "She smiled at the baby.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 132,
+    "verb": "laugh",
+    "turkish": "gülmek",
+    "sentence": "We laughed at his joke.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 133,
+    "verb": "cry",
+    "turkish": "ağlamak",
+    "sentence": "The movie was so sad I cried.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 134,
+    "verb": "fear",
+    "turkish": "korkmak",
+    "sentence": "She fears spiders.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 135,
+    "verb": "love",
+    "turkish": "sevmek",
+    "sentence": "I love my family.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 136,
+    "verb": "hate",
+    "turkish": "nefret etmek",
+    "sentence": "He hates waiting in line.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 137,
+    "verb": "worry",
+    "turkish": "endişelenmek",
+    "sentence": "Don't worry, be happy.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 138,
+    "verb": "hope",
+    "turkish": "ummak / ümit etmek",
+    "sentence": "I hope everything goes well.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 139,
+    "verb": "regret",
+    "turkish": "pişman olmak",
+    "sentence": "I regret eating that much.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 140,
+    "verb": "feel",
+    "turkish": "hissetmek",
+    "sentence": "I feel much better today.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 141,
+    "verb": "enjoy",
+    "turkish": "zevk almak / tadını çıkarmak",
+    "sentence": "Enjoy your meal!",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 142,
+    "verb": "miss",
+    "turkish": "özlemek",
+    "sentence": "I miss my old friends.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 143,
+    "verb": "trust",
+    "turkish": "güvenmek",
+    "sentence": "You should trust your instincts.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 144,
+    "verb": "doubt",
+    "turkish": "şüphe etmek",
+    "sentence": "I doubt he will come.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 145,
+    "verb": "admire",
+    "turkish": "hayran olmak",
+    "sentence": "He admires her courage.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 146,
+    "verb": "envy",
+    "turkish": "kıskanmak (imrenme)",
+    "sentence": "I envy his talent.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 147,
+    "verb": "fear",
+    "turkish": "korkmak",
+    "sentence": "I fear the dark.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 148,
+    "verb": "apologize",
+    "turkish": "özür dilemek",
+    "sentence": "He apologized for his mistake.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 149,
+    "verb": "forgive",
+    "turkish": "affetmek",
+    "sentence": "Please forgive me.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 150,
+    "verb": "complain",
+    "turkish": "şikayet etmek",
+    "sentence": "He always complains about the weather.",
+    "category": "Emotions",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 151,
+    "verb": "paint",
+    "turkish": "boyamak / resim yapmak",
+    "sentence": "She loves to paint landscapes.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 152,
+    "verb": "draw",
+    "turkish": "çizmek",
+    "sentence": "Can you draw a cat?",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 153,
+    "verb": "sing",
+    "turkish": "şarkı söylemek",
+    "sentence": "They sing in the choir.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 154,
+    "verb": "dance",
+    "turkish": "dans etmek",
+    "sentence": "We like to dance at parties.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 155,
+    "verb": "act",
+    "turkish": "rol yapmak",
+    "sentence": "He wants to act in movies.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 156,
+    "verb": "compose",
+    "turkish": "bestelemek",
+    "sentence": "She composed a beautiful song.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 157,
+    "verb": "sculpt",
+    "turkish": "heykel yapmak",
+    "sentence": "He sculpts figures out of clay.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 158,
+    "verb": "design",
+    "turkish": "tasarlamak",
+    "sentence": "Who designed this building?",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 159,
+    "verb": "perform",
+    "turkish": "sahnelemek / performans sergilemek",
+    "sentence": "The band will perform live tonight.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 160,
+    "verb": "exhibit",
+    "turkish": "sergilemek",
+    "sentence": "They exhibit their art in the gallery.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 161,
+    "verb": "sketch",
+    "turkish": "karalamak / taslak çizmek",
+    "sentence": "I quickly sketched the view.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 162,
+    "verb": "direct",
+    "turkish": "yönetmek (film/sahne)",
+    "sentence": "He directed the famous movie.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 163,
+    "verb": "publish",
+    "turkish": "yayınlamak",
+    "sentence": "She has published three novels.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 164,
+    "verb": "edit",
+    "turkish": "düzenlemek (metin/video)",
+    "sentence": "I need to edit this video.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 165,
+    "verb": "illustrate",
+    "turkish": "resimlemek",
+    "sentence": "He illustrated the children's book.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 166,
+    "verb": "carve",
+    "turkish": "oymak",
+    "sentence": "Carve your name into the wood.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 167,
+    "verb": "knit",
+    "turkish": "örmek (örgü)",
+    "sentence": "She knitted a scarf for me.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 168,
+    "verb": "sew",
+    "turkish": "dikmek (dikiş)",
+    "sentence": "Can you sew a button?",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 169,
+    "verb": "color",
+    "turkish": "renklendirmek",
+    "sentence": "Color the sky blue.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 170,
+    "verb": "display",
+    "turkish": "göstermek / sergilemek",
+    "sentence": "Display your work proudly.",
+    "category": "Arts",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 171,
+    "verb": "diagnose",
+    "turkish": "teşhis koymak",
+    "sentence": "The doctor diagnosed the flu.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 172,
+    "verb": "treat",
+    "turkish": "tedavi etmek",
+    "sentence": "They treat patients carefully.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 173,
+    "verb": "cure",
+    "turkish": "iyileştirmek",
+    "sentence": "There is no cure for the common cold.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 174,
+    "verb": "heal",
+    "turkish": "iyileşmek (yara)",
+    "sentence": "The wound needs time to heal.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 175,
+    "verb": "examine",
+    "turkish": "muayene etmek",
+    "sentence": "Let me examine your throat.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 176,
+    "verb": "prescribe",
+    "turkish": "reçete yazmak",
+    "sentence": "He prescribed some antibiotics.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 177,
+    "verb": "suffer",
+    "turkish": "acı çekmek / muzdarip olmak",
+    "sentence": "She suffers from migraines.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 178,
+    "verb": "vomit",
+    "turkish": "kusmak",
+    "sentence": "I felt sick and vomited.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 179,
+    "verb": "faint",
+    "turkish": "bayılmak",
+    "sentence": "He fainted at the sight of blood.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 180,
+    "verb": "bleed",
+    "turkish": "kanamak",
+    "sentence": "Your nose is bleeding.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 181,
+    "verb": "inject",
+    "turkish": "iğne yapmak / enjekte etmek",
+    "sentence": "The nurse injected the vaccine.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 182,
+    "verb": "operate",
+    "turkish": "ameliyat etmek",
+    "sentence": "Surgeons operated on his heart.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 183,
+    "verb": "rehabilitate",
+    "turkish": "reabilite etmek / iyileştirmek",
+    "sentence": "He is rehabilitating his knee.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 184,
+    "verb": "stint",
+    "turkish": "kısmak (sınırlamak)",
+    "sentence": "Don't stint on your health.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 185,
+    "verb": "massage",
+    "turkish": "masaj yapmak",
+    "sentence": "Massage the painful area.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 186,
+    "verb": "bandage",
+    "turkish": "bandajlamak",
+    "sentence": "Bandage the cut immediately.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 187,
+    "verb": "transplant",
+    "turkish": "nakil yapmak",
+    "sentence": "They transplanted a kidney.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 188,
+    "verb": "digest",
+    "turkish": "sindirmek",
+    "sentence": "It takes time to digest food.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 189,
+    "verb": "ache",
+    "turkish": "ağrımak",
+    "sentence": "My head aches terribly.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 190,
+    "verb": "shiver",
+    "turkish": "titremek (soğuktan/korkudan)",
+    "sentence": "He was shivering from the cold.",
+    "category": "Health",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 191,
+    "verb": "introduce",
+    "turkish": "tanıtmak",
+    "sentence": "Let me introduce my friend.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 192,
+    "verb": "greet",
+    "turkish": "selamlamak",
+    "sentence": "She greeted us with a smile.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 193,
+    "verb": "invite",
+    "turkish": "davet etmek",
+    "sentence": "I invited them to dinner.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 194,
+    "verb": "host",
+    "turkish": "ev sahipliği yapmak",
+    "sentence": "We are hosting a party tonight.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 195,
+    "verb": "visit",
+    "turkish": "ziyaret etmek",
+    "sentence": "Visit your grandparents often.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 196,
+    "verb": "celebrate",
+    "turkish": "kutlamak",
+    "sentence": "Let's celebrate your birthday!",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 197,
+    "verb": "congratulate",
+    "turkish": "tebrik etmek",
+    "sentence": "I congratulated him on his success.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 198,
+    "verb": "hug",
+    "turkish": "sarılmak",
+    "sentence": "She hugged her mother tightly.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 199,
+    "verb": "kiss",
+    "turkish": "öpmek",
+    "sentence": "He kissed his wife goodbye.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 200,
+    "verb": "marry",
+    "turkish": "evlenmek",
+    "sentence": "They plan to marry in June.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 201,
+    "verb": "divorce",
+    "turkish": "boşanmak",
+    "sentence": "They decided to divorce.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 202,
+    "verb": "gather",
+    "turkish": "toplanmak",
+    "sentence": "Crowds gathered in the square.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 203,
+    "verb": "share",
+    "turkish": "paylaşmak",
+    "sentence": "Share your toys with others.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 204,
+    "verb": "support",
+    "turkish": "desteklemek",
+    "sentence": "Friends support each other.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 205,
+    "verb": "encourage",
+    "turkish": "cesaretlendirmek",
+    "sentence": "Teachers encourage students to learn.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 206,
+    "verb": "discourage",
+    "turkish": "cesaretini kırmak",
+    "sentence": "Don't discourage him.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 207,
+    "verb": "insult",
+    "turkish": "hakaret etmek",
+    "sentence": "It is rude to insult people.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 208,
+    "verb": "compliment",
+    "turkish": "iltifat etmek",
+    "sentence": "He complimented my dress.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 209,
+    "verb": "borrow",
+    "turkish": "ödünç almak",
+    "sentence": "Can I borrow your pen?",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 210,
+    "verb": "lend",
+    "turkish": "ödünç vermek",
+    "sentence": "I lent him some money.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 211,
+    "verb": "owe",
+    "turkish": "borçlu olmak",
+    "sentence": "I owe you a favor.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 212,
+    "verb": "thank",
+    "turkish": "teşekkür etmek",
+    "sentence": "Thank you for your help.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 213,
+    "verb": "welcome",
+    "turkish": "karşılamak / hoş geldin demek",
+    "sentence": "They welcomed us warmly.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 214,
+    "verb": "ignore",
+    "turkish": "görmezden gelmek",
+    "sentence": "Don't ignore my advice.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 215,
+    "verb": "interrupt",
+    "turkish": "sözünü kesmek / araya girmek",
+    "sentence": "Please don't interrupt me.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 216,
+    "verb": "gossip",
+    "turkish": "dedikodu yapmak",
+    "sentence": "They love to gossip about celebrities.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 217,
+    "verb": "joke",
+    "turkish": "şaka yapmak",
+    "sentence": "He is always joking.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 218,
+    "verb": "tease",
+    "turkish": "takılmak / alay etmek",
+    "sentence": "Don't tease your little brother.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 219,
+    "verb": "flirt",
+    "turkish": "flört etmek",
+    "sentence": "He was flirting with her.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 220,
+    "verb": "date",
+    "turkish": "çıkmak (biriyle)",
+    "sentence": "They have been dating for a year.",
+    "category": "Social",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 221,
+    "verb": "build",
+    "turkish": "inşa etmek",
+    "sentence": "They plan to build a new house.",
+    "category": "Construction",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 222,
+    "verb": "demolish",
+    "turkish": "yıkmak",
+    "sentence": "The old building was demolished.",
+    "category": "Construction",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 223,
+    "verb": "renovate",
+    "turkish": "yenilemek / tadilat yapmak",
+    "sentence": "We need to renovate the kitchen.",
+    "category": "Construction",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 224,
+    "verb": "measure",
+    "turkish": "ölçmek",
+    "sentence": "Measure the room before buying furniture.",
+    "category": "Construction",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 225,
+    "verb": "hammer",
+    "turkish": "çekiçlemek",
+    "sentence": "Hammer the nail into the wood.",
+    "category": "Construction",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 226,
+    "verb": "drill",
+    "turkish": "delmek",
+    "sentence": "Drill a hole in the wall.",
+    "category": "Construction",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 227,
+    "verb": "saw",
+    "turkish": "testere ile kesmek",
+    "sentence": "Saw the plank in half.",
+    "category": "Construction",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 228,
+    "verb": "weld",
+    "turkish": "kaynak yapmak",
+    "sentence": "He welds metal pipes.",
+    "category": "Construction",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 229,
+    "verb": "dig",
+    "turkish": "kazmak",
+    "sentence": "The dog dug a hole in the garden.",
+    "category": "Construction",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 230,
+    "verb": "pave",
+    "turkish": "döşemek (yol)",
+    "sentence": "They are paving the street.",
+    "category": "Construction",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 231,
+    "verb": "cook",
+    "turkish": "pişirmek",
+    "sentence": "I'll cook dinner tonight.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 232,
+    "verb": "bake",
+    "turkish": "fırında pişirmek",
+    "sentence": "She bakes bread every Sunday.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 233,
+    "verb": "fry",
+    "turkish": "kızartmak",
+    "sentence": "Fry the eggs in oil.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 234,
+    "verb": "boil",
+    "turkish": "haşlamak / kaynatmak",
+    "sentence": "Boil the water before drinking.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 235,
+    "verb": "roast",
+    "turkish": "fırında kızartmak (et vb)",
+    "sentence": "We roasted a chicken.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 236,
+    "verb": "grill",
+    "turkish": "ızgara yapmak",
+    "sentence": "Let's grill some burgers.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 237,
+    "verb": "slice",
+    "turkish": "dilimlemek",
+    "sentence": "Slice the bread thinly.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 238,
+    "verb": "chop",
+    "turkish": "doğramak",
+    "sentence": "Chop the onions finely.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 239,
+    "verb": "mix",
+    "turkish": "karıştırmak",
+    "sentence": "Mix the flour and sugar.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 240,
+    "verb": "stir",
+    "turkish": "karıştırmak (kaşıkla)",
+    "sentence": "Stir the soup occasionally.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 241,
+    "verb": "taste",
+    "turkish": "tatmak",
+    "sentence": "Taste the sauce to see if it needs salt.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 242,
+    "verb": "smell",
+    "turkish": "koklamak",
+    "sentence": "That smells delicious.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 243,
+    "verb": "serve",
+    "turkish": "servis etmek",
+    "sentence": "Serve the dish hot.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 244,
+    "verb": "pour",
+    "turkish": "dökmek (sıvı)",
+    "sentence": "Pour some water into the glass.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 245,
+    "verb": "weigh",
+    "turkish": "tartmak",
+    "sentence": "Weigh the ingredients carefully.",
+    "category": "Culinary",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 246,
+    "verb": "win",
+    "turkish": "kazanmak",
+    "sentence": "I want to win the game.",
+    "category": "Sports",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 247,
+    "verb": "lose",
+    "turkish": "kaybetmek",
+    "sentence": "They hate to lose.",
+    "category": "Sports",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 248,
+    "verb": "score",
+    "turkish": "skor yapmak / sayı atmak",
+    "sentence": "He scored the winning goal.",
+    "category": "Sports",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 249,
+    "verb": "compete",
+    "turkish": "yarışmak",
+    "sentence": "Athletes compete for gold medals.",
+    "category": "Sports",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "id": 250,
+    "verb": "defend",
+    "turkish": "savunmak",
+    "sentence": "The team needs to defend better.",
+    "category": "Sports",
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "compile",
+    "turkish": "derlemek",
+    "sentence": "You need to compile the source code first.",
+    "category": "Technology",
+    "id": 251,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "recycle",
+    "turkish": "geri dönüştürmek",
+    "sentence": "We should recycle paper and plastic.",
+    "category": "Environment",
+    "id": 252,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "pollute",
+    "turkish": "kirletmek",
+    "sentence": "Factories pollute the air and water.",
+    "category": "Environment",
+    "id": 253,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "conserve",
+    "turkish": "korumak / muhafaza etmek",
+    "sentence": "It is important to conserve water.",
+    "category": "Environment",
+    "id": 254,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "melt",
+    "turkish": "erimek",
+    "sentence": "The ice cream began to melt in the sun.",
+    "category": "Environment",
+    "id": 255,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "adapt",
+    "turkish": "uyum sağlamak",
+    "sentence": "Animals must adapt to changing climates.",
+    "category": "Environment",
+    "id": 256,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "survive",
+    "turkish": "hayatta kalmak",
+    "sentence": "Only the strongest survive in the wild.",
+    "category": "Environment",
+    "id": 257,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "harvest",
+    "turkish": "hasat etmek",
+    "sentence": "Farmers harvest crops in the autumn.",
+    "category": "Environment",
+    "id": 258,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "plant",
+    "turkish": "dikmek (bitki)",
+    "sentence": "Let's plant a tree in the garden.",
+    "category": "Environment",
+    "id": 259,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "vote",
+    "turkish": "oy kullanmak",
+    "sentence": "Citizens vote for their representatives.",
+    "category": "Politics",
+    "id": 260,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "elect",
+    "turkish": "seçmek (oyla)",
+    "sentence": "They elected him as the new president.",
+    "category": "Politics",
+    "id": 261,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "ban",
+    "turkish": "yasaklamak",
+    "sentence": "Smoking is banned in public places.",
+    "category": "Law",
+    "id": 262,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "permit",
+    "turkish": "izin vermek (resmi)",
+    "sentence": "Photography is not permitted in the museum.",
+    "category": "Law",
+    "id": 263,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "accuse",
+    "turkish": "suçlamak",
+    "sentence": "He was accused of theft.",
+    "category": "Law",
+    "id": 264,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "arrest",
+    "turkish": "tutuklamak",
+    "sentence": "The police arrested the suspect.",
+    "category": "Law",
+    "id": 265,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sue",
+    "turkish": "dava açmak",
+    "sentence": "He threatened to sue the company.",
+    "category": "Law",
+    "id": 266,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "govern",
+    "turkish": "yönetmek (ülke)",
+    "sentence": "The party governs with a majority.",
+    "category": "Politics",
+    "id": 267,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "whisk",
+    "turkish": "çırpmak",
+    "sentence": "Whisk the eggs and sugar together.",
+    "category": "Culinary",
+    "id": 268,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "peel",
+    "turkish": "soymak (kabuk)",
+    "sentence": "Peel the potatoes before cooking.",
+    "category": "Culinary",
+    "id": 269,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "facilitate",
+    "turkish": "kolaylaştırmak",
+    "sentence": "The moderator's role is to facilitate the discussion.",
+    "category": "Academic",
+    "id": 270,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "coordinate",
+    "turkish": "koordine etmek",
+    "sentence": "We need to coordinate our efforts to finish on time.",
+    "category": "Business",
+    "id": 271,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "assess",
+    "turkish": "değerlendirmek",
+    "sentence": "They will assess the damage after the storm.",
+    "category": "Academic",
+    "id": 272,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "evaluate",
+    "turkish": "değer biçmek / değerlendirmek",
+    "sentence": "Teachers evaluate student progress regularly.",
+    "category": "Academic",
+    "id": 273,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "demonstrate",
+    "turkish": "göstermek / kanıtlamak",
+    "sentence": "The experiment demonstrates the laws of gravity.",
+    "category": "Academic",
+    "id": 274,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "imply",
+    "turkish": "ima etmek",
+    "sentence": "Are you implying that I am wrong?",
+    "category": "Daily Conversation",
+    "id": 275,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "indicate",
+    "turkish": "belirtmek / işaret etmek",
+    "sentence": "Research indicates that stress affects health.",
+    "category": "Academic",
+    "id": 276,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "maintain",
+    "turkish": "sürdürmek / bakım yapmak",
+    "sentence": "He maintains a healthy lifestyle.",
+    "category": "Health",
+    "id": 277,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "obtain",
+    "turkish": "elde etmek / edinmek",
+    "sentence": "You must obtain permission to build here.",
+    "category": "Law",
+    "id": 278,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "participate",
+    "turkish": "katılmak",
+    "sentence": "All students are expected to participate in the event.",
+    "category": "Academic",
+    "id": 279,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "perceive",
+    "turkish": "algılamak",
+    "sentence": "How do you perceive the current situation?",
+    "category": "Psychology",
+    "id": 280,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "regulate",
+    "turkish": "düzenlemek (yasa/kural ile)",
+    "sentence": "The government regulates the banking industry.",
+    "category": "Law",
+    "id": 281,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "reinforce",
+    "turkish": "güçlendirmek / pekiştirmek",
+    "sentence": "We need to reinforce the walls against the wind.",
+    "category": "Construction",
+    "id": 282,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "reject",
+    "turkish": "reddetmek",
+    "sentence": "The committee rejected the proposal.",
+    "category": "Business",
+    "id": 283,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "restore",
+    "turkish": "eski haline getirmek / onarmak",
+    "sentence": "They plan to restore the old castle.",
+    "category": "Construction",
+    "id": 284,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "restrict",
+    "turkish": "kısıtlamak",
+    "sentence": "Access to this area is restricted.",
+    "category": "Law",
+    "id": 285,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "retain",
+    "turkish": "muhafaza etmek / tutmak",
+    "sentence": "She managed to retain her position as CEO.",
+    "category": "Business",
+    "id": 286,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "reveal",
+    "turkish": "ortaya çıkarmak / ifşa etmek",
+    "sentence": "The investigation revealed the truth.",
+    "category": "Law",
+    "id": 287,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "seek",
+    "turkish": "aramak / talep etmek",
+    "sentence": "They are seeking asylum in another country.",
+    "category": "Politics",
+    "id": 288,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "simulate",
+    "turkish": "taklit etmek / simüle etmek",
+    "sentence": "The software simulates real driving conditions.",
+    "category": "Technology",
+    "id": 289,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "specify",
+    "turkish": "belirtmek (detaylı)",
+    "sentence": "Please specify the color you want.",
+    "category": "Business",
+    "id": 290,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "submit",
+    "turkish": "sunmak / teslim etmek",
+    "sentence": "You must submit your report by Friday.",
+    "category": "Business",
+    "id": 291,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sustain",
+    "turkish": "sürdürmek / ayakta tutmak",
+    "sentence": "It is difficult to sustain this growth rate.",
+    "category": "Business",
+    "id": 292,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "transfer",
+    "turkish": "transfer etmek / aktarmak",
+    "sentence": "He was transferred to the London office.",
+    "category": "Business",
+    "id": 293,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "undertake",
+    "turkish": "üstlenmek",
+    "sentence": "She undertook a difficult task.",
+    "category": "Business",
+    "id": 294,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "validate",
+    "turkish": "doğrulamak / geçerli kılmak",
+    "sentence": "We need to validate the test results.",
+    "category": "Science",
+    "id": 295,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "vary",
+    "turkish": "çeşitlilik göstermek / değişmek",
+    "sentence": "Prices vary depending on the season.",
+    "category": "Business",
+    "id": 296,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "violate",
+    "turkish": "ihlal etmek",
+    "sentence": "Do not violate the traffic rules.",
+    "category": "Law",
+    "id": 297,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "acquire",
+    "turkish": "edinmek / kazanmak",
+    "sentence": "He acquired a lot of knowledge in college.",
+    "category": "Academic",
+    "id": 298,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "anticipate",
+    "turkish": "öngörmek / beklemek",
+    "sentence": "We anticipate a large crowd tonight.",
+    "category": "Business",
+    "id": 299,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "approach",
+    "turkish": "yaklaşmak",
+    "sentence": "Winter is approaching fast.",
+    "category": "Daily Conversation",
+    "id": 300,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "assume",
+    "turkish": "varsaymak",
+    "sentence": "I assume you are ready.",
+    "category": "Daily Conversation",
+    "id": 301,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "cease",
+    "turkish": "sona erdirmek / durdurmak",
+    "sentence": "The factory ceased operations last year.",
+    "category": "Business",
+    "id": 302,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "claim",
+    "turkish": "iddia etmek / talep etmek",
+    "sentence": "He claims to be an expert.",
+    "category": "Law",
+    "id": 303,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "collapse",
+    "turkish": "çökmek (yapısal/ekonomik)",
+    "sentence": "The roof collapsed under the weight of the snow.",
+    "category": "Construction",
+    "id": 304,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "commit",
+    "turkish": "adamak / işlemek (suç)",
+    "sentence": "He committed a serious crime.",
+    "category": "Law",
+    "id": 305,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "comply",
+    "turkish": "uymak (kurala)",
+    "sentence": "Companies must comply with the regulations.",
+    "category": "Law",
+    "id": 306,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "conduct",
+    "turkish": "yürütmek (araştırma/iş)",
+    "sentence": "They conducted a survey of customer satisfaction.",
+    "category": "Business",
+    "id": 307,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "consent",
+    "turkish": "razı olmak / izin vermek",
+    "sentence": "He consented to the surgery.",
+    "category": "Health",
+    "id": 308,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "consider",
+    "turkish": "göz önünde bulundurmak / düşünmek",
+    "sentence": "You should consider all options.",
+    "category": "Daily Conversation",
+    "id": 309,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "consult",
+    "turkish": "danışmak",
+    "sentence": "Consult your doctor before starting a diet.",
+    "category": "Health",
+    "id": 310,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "contribute",
+    "turkish": "katkıda bulunmak",
+    "sentence": "Everyone should contribute to the discussion.",
+    "category": "Academic",
+    "id": 311,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "convince",
+    "turkish": "ikna etmek",
+    "sentence": "I hope to convince him to stay.",
+    "category": "Daily Conversation",
+    "id": 312,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "decline",
+    "turkish": "reddetmek / azalmak",
+    "sentence": "She declined the invitation.",
+    "category": "Social",
+    "id": 313,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "deduce",
+    "turkish": "çıkarım yapmak",
+    "sentence": "We can deduce the answer from the clues.",
+    "category": "Logic",
+    "id": 314,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "deny",
+    "turkish": "inkar etmek",
+    "sentence": "He denied the allegations.",
+    "category": "Law",
+    "id": 315,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "derive",
+    "turkish": "türetmek / kaynaklanmak",
+    "sentence": "Many English words are derived from Latin.",
+    "category": "Academic",
+    "id": 316,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "give up",
+    "turkish": "pes etmek / bırakmak (sigara vb.)",
+    "sentence": "Don't give up on your dreams.",
+    "category": "Phrasal Verbs",
+    "id": 317,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "look for",
+    "turkish": "aramak (bir şeyi)",
+    "sentence": "I am looking for my keys.",
+    "category": "Phrasal Verbs",
+    "id": 318,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "look after",
+    "turkish": "ilgilenmek / göz kulak olmak",
+    "sentence": "Can you look after my cat while I'm away?",
+    "category": "Phrasal Verbs",
+    "id": 319,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "carry on",
+    "turkish": "devam etmek",
+    "sentence": "Please carry on with your work.",
+    "category": "Phrasal Verbs",
+    "id": 320,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hold on",
+    "turkish": "beklemek (kısa süre)",
+    "sentence": "Hold on a minute, I'll check.",
+    "category": "Phrasal Verbs",
+    "id": 321,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "break down",
+    "turkish": "bozulmak / parçalanmak / çökmek (sinirsel)",
+    "sentence": "My car broke down on the highway.",
+    "category": "Phrasal Verbs",
+    "id": 322,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "run out of",
+    "turkish": "tükenmek / bitmek",
+    "sentence": "We ran out of coffee this morning.",
+    "category": "Phrasal Verbs",
+    "id": 323,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "get along",
+    "turkish": "iyi geçinmek",
+    "sentence": "I get along well with my neighbors.",
+    "category": "Phrasal Verbs",
+    "id": 324,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "put off",
+    "turkish": "ertelemek",
+    "sentence": "Don't put off until tomorrow what you can do today.",
+    "category": "Phrasal Verbs",
+    "id": 325,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "call off",
+    "turkish": "iptal etmek (etkinlik)",
+    "sentence": "The game was called off due to rain.",
+    "category": "Phrasal Verbs",
+    "id": 326,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "turn down",
+    "turkish": "reddetmek / sesini kısmak",
+    "sentence": "He turned down the job offer.",
+    "category": "Phrasal Verbs",
+    "id": 327,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "turn up",
+    "turkish": "ortaya çıkmak / sesini açmak",
+    "sentence": "My lost wallet turned up in the sofa.",
+    "category": "Phrasal Verbs",
+    "id": 328,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "show up",
+    "turkish": "çıkagelmek / varmak",
+    "sentence": "She didn't show up for the meeting.",
+    "category": "Phrasal Verbs",
+    "id": 329,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "make up",
+    "turkish": "uydurmak / telafi etmek / barışmak",
+    "sentence": "He made up a story about being late.",
+    "category": "Phrasal Verbs",
+    "id": 330,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "figure out",
+    "turkish": "çözmek / anlamak",
+    "sentence": "I can't figure out why this isn't working.",
+    "category": "Phrasal Verbs",
+    "id": 331,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "find out",
+    "turkish": "öğrenmek (bilgi)",
+    "sentence": "I found out that he lied to me.",
+    "category": "Phrasal Verbs",
+    "id": 332,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "set up",
+    "turkish": "kurmak / ayarlamak",
+    "sentence": "They set up a new company.",
+    "category": "Phrasal Verbs",
+    "id": 333,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "pick up",
+    "turkish": "toplamak / almak (birini/bir şeyi)",
+    "sentence": "I will pick you up at 7.",
+    "category": "Phrasal Verbs",
+    "id": 334,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "drop off",
+    "turkish": "bırakmak (birini/bir şeyi)",
+    "sentence": "Can you drop me off at the station?",
+    "category": "Phrasal Verbs",
+    "id": 335,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bring up",
+    "turkish": "gündeme getirmek / yetiştirmek (çocuk)",
+    "sentence": "Don't bring up that topic again.",
+    "category": "Phrasal Verbs",
+    "id": 336,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "point out",
+    "turkish": "işaret etmek / dikkat çekmek",
+    "sentence": "She pointed out the mistake in my report.",
+    "category": "Phrasal Verbs",
+    "id": 337,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "calm down",
+    "turkish": "sakinleşmek",
+    "sentence": "You need to calm down before speaking.",
+    "category": "Phrasal Verbs",
+    "id": 338,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "grow up",
+    "turkish": "büyümek (çocuk)",
+    "sentence": "I grew up in a small town.",
+    "category": "Phrasal Verbs",
+    "id": 339,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "get up",
+    "turkish": "ayağa kalkmak / yataktan kalkmak",
+    "sentence": "I get up at 6 AM everyday.",
+    "category": "Phrasal Verbs",
+    "id": 340,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sign up",
+    "turkish": "kaydolmak",
+    "sentence": "You need to sign up for the course.",
+    "category": "Phrasal Verbs",
+    "id": 341,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "log in",
+    "turkish": "giriş yapmak (sistem)",
+    "sentence": "Please log in with your password.",
+    "category": "Phrasal Verbs",
+    "id": 342,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "log out",
+    "turkish": "çıkış yapmak (sistem)",
+    "sentence": "Don't forget to log out when finished.",
+    "category": "Phrasal Verbs",
+    "id": 343,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "pass out",
+    "turkish": "bayılmak",
+    "sentence": "He passed out from the heat.",
+    "category": "Phrasal Verbs",
+    "id": 344,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "pass away",
+    "turkish": "vefat etmek",
+    "sentence": "Her grandmother passed away last year.",
+    "category": "Phrasal Verbs",
+    "id": 345,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "cut down",
+    "turkish": "azaltmak (tüketim) / kesmek (ağaç)",
+    "sentence": "I'm trying to cut down on sugar.",
+    "category": "Phrasal Verbs",
+    "id": 346,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "cut off",
+    "turkish": "kesmek (iletişim/elektrik) / sözünü kesmek",
+    "sentence": "The phone was cut off.",
+    "category": "Phrasal Verbs",
+    "id": 347,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "check in",
+    "turkish": "giriş yapmak (otel/havaalanı)",
+    "sentence": "We checked in at the hotel.",
+    "category": "Phrasal Verbs",
+    "id": 348,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "check out",
+    "turkish": "çıkış yapmak / incelemek",
+    "sentence": "Check out this new song!",
+    "category": "Phrasal Verbs",
+    "id": 349,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "look forward to",
+    "turkish": "dört gözle beklemek",
+    "sentence": "I look forward to seeing you.",
+    "category": "Phrasal Verbs",
+    "id": 350,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "put up with",
+    "turkish": "katlanmak / tahammül etmek",
+    "sentence": "I can't put up with this noise anymore.",
+    "category": "Phrasal Verbs",
+    "id": 351,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "run into",
+    "turkish": "karşılaşmak (tesadüfen)",
+    "sentence": "I ran into an old friend today.",
+    "category": "Phrasal Verbs",
+    "id": 352,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "come across",
+    "turkish": "denk gelmek / rastlamak",
+    "sentence": "I came across an interesting article.",
+    "category": "Phrasal Verbs",
+    "id": 353,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "take over",
+    "turkish": "devralmak",
+    "sentence": "Use he will take over the business.",
+    "category": "Phrasal Verbs",
+    "id": 354,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "take place",
+    "turkish": "meydana gelmek / gerçekleşmek",
+    "sentence": "The meeting will take place in Room 101.",
+    "category": "Phrasal Verbs",
+    "id": 355,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "turn into",
+    "turkish": "dönüşmek",
+    "sentence": "The caterpillar turned into a butterfly.",
+    "category": "Phrasal Verbs",
+    "id": 356,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "work out",
+    "turkish": "spor yapmak / çözmek (problem)",
+    "sentence": "Things will work out in the end.",
+    "category": "Phrasal Verbs",
+    "id": 357,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "keep up",
+    "turkish": "ayak uydurmak",
+    "sentence": "It's hard to keep up with the latest trends.",
+    "category": "Phrasal Verbs",
+    "id": 358,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "catch up",
+    "turkish": "yakalamak (seviye/hız)",
+    "sentence": "Go ahead, I'll catch up with you later.",
+    "category": "Phrasal Verbs",
+    "id": 359,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "fall apart",
+    "turkish": "dağılmak / parçalanmak",
+    "sentence": "The old book is falling apart.",
+    "category": "Phrasal Verbs",
+    "id": 360,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "fall behind",
+    "turkish": "geride kalmak",
+    "sentence": "Don't fall behind in your studies.",
+    "category": "Phrasal Verbs",
+    "id": 361,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "break up",
+    "turkish": "ayrılmak (ilişki) / parçalanmak",
+    "sentence": "They broke up last month.",
+    "category": "Phrasal Verbs",
+    "id": 362,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "blow up",
+    "turkish": "patlamak / patlatmak",
+    "sentence": "The car blew up in the movie.",
+    "category": "Phrasal Verbs",
+    "id": 363,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "back up",
+    "turkish": "desteklemek / geri gitmek / yedeklemek",
+    "sentence": "Please back up your files frequently.",
+    "category": "Phrasal Verbs",
+    "id": 364,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "give in",
+    "turkish": "teslim olmak / boyun eğmek",
+    "sentence": "Eventually, he gave in to their demands.",
+    "category": "Phrasal Verbs",
+    "id": 365,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "go on",
+    "turkish": "devam etmek / olmak (olay)",
+    "sentence": "What is going on here?",
+    "category": "Phrasal Verbs",
+    "id": 366,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "infect",
+    "turkish": "bulaşmak / enfekte etmek",
+    "sentence": "The virus can infect anyone.",
+    "category": "Medicine",
+    "id": 367,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sneeze",
+    "turkish": "hapşırmak",
+    "sentence": "Dust makes me sneeze.",
+    "category": "Medicine",
+    "id": 368,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "cough",
+    "turkish": "öksürmek",
+    "sentence": "He has been coughing all day.",
+    "category": "Medicine",
+    "id": 369,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "absorb",
+    "turkish": "emmek / soğurmak",
+    "sentence": "Plants absorb water through their roots.",
+    "category": "Science",
+    "id": 370,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "dissolve",
+    "turkish": "çözünmek / eritmek",
+    "sentence": "Sugar dissolves in hot water.",
+    "category": "Science",
+    "id": 371,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "evaporate",
+    "turkish": "buharlaşmak",
+    "sentence": "Water evaporates in the sun.",
+    "category": "Science",
+    "id": 372,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "freeze",
+    "turkish": "donmak",
+    "sentence": "Water freezes at zero degrees.",
+    "category": "Science",
+    "id": 373,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "condense",
+    "turkish": "yoğunlaşmak (gazdan sıvıya)",
+    "sentence": "Steam condenses into water droplets.",
+    "category": "Science",
+    "id": 374,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "contract",
+    "turkish": "büzüşmek / kasılmak / sözleşme yapmak",
+    "sentence": "Muscles contract to move bones.",
+    "category": "Science",
+    "id": 375,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "magnetize",
+    "turkish": "mıknatıslamak",
+    "sentence": "You can magnetize a needle.",
+    "category": "Science",
+    "id": 376,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "oxidize",
+    "turkish": "oksitlenmek",
+    "sentence": "Iron oxidizes to form rust.",
+    "category": "Science",
+    "id": 377,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "ferment",
+    "turkish": "mayalanmak",
+    "sentence": "Yeast causes the dough to ferment.",
+    "category": "Science",
+    "id": 378,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bloom",
+    "turkish": "çiçek açmak",
+    "sentence": "The roses bloom in spring.",
+    "category": "Nature",
+    "id": 379,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wither",
+    "turkish": "solmak",
+    "sentence": "Flowers wither without water.",
+    "category": "Nature",
+    "id": 380,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sprout",
+    "turkish": "filizlenmek",
+    "sentence": "Seeds sprout after the rain.",
+    "category": "Nature",
+    "id": 381,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "ripen",
+    "turkish": "olgunlaşmak (meyve)",
+    "sentence": "Tomatoes ripen on the vine.",
+    "category": "Nature",
+    "id": 382,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "decay",
+    "turkish": "çürümek",
+    "sentence": "Dead leaves decay and enrich the soil.",
+    "category": "Nature",
+    "id": 383,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "roam",
+    "turkish": "gezinmek / dolaşmak",
+    "sentence": "Buffaloes used to roam these plains.",
+    "category": "Nature",
+    "id": 384,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "graze",
+    "turkish": "otlamak",
+    "sentence": "Cows graze in the field.",
+    "category": "Nature",
+    "id": 385,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hunt",
+    "turkish": "avlamak",
+    "sentence": "Lions hunt for food.",
+    "category": "Nature",
+    "id": 386,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "prey",
+    "turkish": "avlanmak (üzerine)",
+    "sentence": "Owls prey on mice.",
+    "category": "Nature",
+    "id": 387,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "migrate",
+    "turkish": "göç etmek",
+    "sentence": "Birds migrate south for winter.",
+    "category": "Nature",
+    "id": 388,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hibernate",
+    "turkish": "kış uykusuna yatmak",
+    "sentence": "Bears hibernate during the winter.",
+    "category": "Nature",
+    "id": 389,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bark",
+    "turkish": "havlamak",
+    "sentence": "The dog barks at strangers.",
+    "category": "Animals",
+    "id": 390,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "meow",
+    "turkish": "miyavlamak",
+    "sentence": "The cat meows when it's hungry.",
+    "category": "Animals",
+    "id": 391,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sting",
+    "turkish": "sokmak (arı/böcek)",
+    "sentence": "A bee stung me on the arm.",
+    "category": "Animals",
+    "id": 392,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hatch",
+    "turkish": "yumurtadan çıkmak",
+    "sentence": "The chicks will hatch soon.",
+    "category": "Animals",
+    "id": 393,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "construct",
+    "turkish": "inşa etmek",
+    "sentence": "They are constructing a new bridge.",
+    "category": "Construction",
+    "id": 394,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "assemble",
+    "turkish": "monte etmek / bir araya getirmek",
+    "sentence": "I need to assemble this bookshelf.",
+    "category": "Construction",
+    "id": 395,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "screw",
+    "turkish": "vidalamak",
+    "sentence": "Screw the lid on tight.",
+    "category": "Construction",
+    "id": 396,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "repair",
+    "turkish": "tamir etmek",
+    "sentence": "Can you repair my watch?",
+    "category": "General",
+    "id": 397,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "fix",
+    "turkish": "düzeltmek / sabitlemek",
+    "sentence": "I need to fix the leak.",
+    "category": "General",
+    "id": 398,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "whisper",
+    "turkish": "fısıldamak",
+    "sentence": "She whispered a secret in my ear.",
+    "category": "Social",
+    "id": 399,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shout",
+    "turkish": "bağırmak",
+    "sentence": "Don't shout at me!",
+    "category": "Social",
+    "id": 400,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "yell",
+    "turkish": "haykırmak",
+    "sentence": "He yelled for help.",
+    "category": "Social",
+    "id": 401,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "persuade",
+    "turkish": "ikna etmek",
+    "sentence": "I managed to persuade him to come.",
+    "category": "Social",
+    "id": 402,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "mention",
+    "turkish": "bahsetmek",
+    "sentence": "Did he mention my name?",
+    "category": "Social",
+    "id": 403,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "inform",
+    "turkish": "bilgilendirmek",
+    "sentence": "Please inform us of any changes.",
+    "category": "Social",
+    "id": 404,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "warn",
+    "turkish": "uyarmak",
+    "sentence": "I warned you about the dog.",
+    "category": "Social",
+    "id": 405,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "threaten",
+    "turkish": "tehdit etmek",
+    "sentence": "He threatened to call the police.",
+    "category": "Social",
+    "id": 406,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "praise",
+    "turkish": "övmek",
+    "sentence": "The teacher praised the student's effort.",
+    "category": "Social",
+    "id": 407,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "criticize",
+    "turkish": "eleştirmek",
+    "sentence": "It is easy to criticize others.",
+    "category": "Social",
+    "id": 408,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "blame",
+    "turkish": "suçlamak",
+    "sentence": "Don't blame me for your mistakes.",
+    "category": "Social",
+    "id": 409,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "confess",
+    "turkish": "itiraf etmek",
+    "sentence": "He confessed to the crime.",
+    "category": "Law",
+    "id": 410,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "imagine",
+    "turkish": "hayal etmek",
+    "sentence": "Can you imagine living there?",
+    "category": "Mental",
+    "id": 411,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "realize",
+    "turkish": "farkına varmak",
+    "sentence": "I didn't realize it was so late.",
+    "category": "Mental",
+    "id": 412,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "recognize",
+    "turkish": "tanımak / ayırt etmek",
+    "sentence": "I didn't recognize you with your new haircut.",
+    "category": "Mental",
+    "id": 413,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "suppose",
+    "turkish": "zannetmek / varsaymak",
+    "sentence": "I suppose you are right.",
+    "category": "Mental",
+    "id": 414,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wonder",
+    "turkish": "merak etmek",
+    "sentence": "I wonder what will happen next.",
+    "category": "Mental",
+    "id": 415,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "guess",
+    "turkish": "tahmin etmek",
+    "sentence": "Can you guess my age?",
+    "category": "Mental",
+    "id": 416,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "remind",
+    "turkish": "hatırlatmak",
+    "sentence": "Please remind me to call mom.",
+    "category": "Mental",
+    "id": 417,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "suspect",
+    "turkish": "şüphelenmek",
+    "sentence": "I suspect he is lying.",
+    "category": "Mental",
+    "id": 418,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "concentrate",
+    "turkish": "odaklanmak",
+    "sentence": "It is hard to concentrate with this noise.",
+    "category": "Mental",
+    "id": 419,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "distract",
+    "turkish": "dikkatini dağıtmak",
+    "sentence": "Don't distract the driver.",
+    "category": "Mental",
+    "id": 420,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "crawl",
+    "turkish": "emeklemek / sürünmek",
+    "sentence": "The baby started to crawl towards the toy.",
+    "category": "Movement",
+    "id": 421,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "creep",
+    "turkish": "sessizce/sinsice yaklaşmak",
+    "sentence": "The cat crept up on the bird.",
+    "category": "Movement",
+    "id": 422,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "slip",
+    "turkish": "kaymak",
+    "sentence": "Be careful not to slip on the ice.",
+    "category": "Movement",
+    "id": 423,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "slide",
+    "turkish": "kaydırmak / kaymak",
+    "sentence": "Kids love to slide down the hill.",
+    "category": "Movement",
+    "id": 424,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "dive",
+    "turkish": "dalmak",
+    "sentence": "He dived into the pool.",
+    "category": "Movement",
+    "id": 425,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "leap",
+    "turkish": "sıçramak",
+    "sentence": "The frog leaped across the pond.",
+    "category": "Movement",
+    "id": 426,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "march",
+    "turkish": "yürüyüş yapmak (askeri)",
+    "sentence": "Soldiers march in formation.",
+    "category": "Movement",
+    "id": 427,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "stroll",
+    "turkish": "gezinmek (yavaşça)",
+    "sentence": "They strolled along the beach.",
+    "category": "Movement",
+    "id": 428,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wander",
+    "turkish": "başıboş dolaşmak",
+    "sentence": "He wandered around the city for hours.",
+    "category": "Movement",
+    "id": 429,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "rush",
+    "turkish": "acele etmek",
+    "sentence": "We had to rush to catch the train.",
+    "category": "Movement",
+    "id": 430,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "chase",
+    "turkish": "kovalamak",
+    "sentence": "Dogs love to chase balls.",
+    "category": "Movement",
+    "id": 431,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "flee",
+    "turkish": "kaçmak (tehlikeden)",
+    "sentence": "The villagers had to flee their homes.",
+    "category": "Movement",
+    "id": 432,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "escape",
+    "turkish": "kaçıp kurtulmak",
+    "sentence": "The prisoner managed to escape.",
+    "category": "Movement",
+    "id": 433,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "retreat",
+    "turkish": "geri çekilmek",
+    "sentence": "The army was forced to retreat.",
+    "category": "Movement",
+    "id": 434,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shrug",
+    "turkish": "omuz silkmek",
+    "sentence": "He just shrugged when I asked him.",
+    "category": "Movement",
+    "id": 435,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "nod",
+    "turkish": "başını sallamak (onay)",
+    "sentence": "She nodded in agreement.",
+    "category": "Movement",
+    "id": 436,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shake",
+    "turkish": "sallamak",
+    "sentence": "Shake the bottle before use.",
+    "category": "Movement",
+    "id": 437,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bow",
+    "turkish": "eğilmek (selam)",
+    "sentence": "They bowed to the Queen.",
+    "category": "Movement",
+    "id": 438,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wave",
+    "turkish": "el sallamak / dalgalanmak",
+    "sentence": "She waved goodbye to us.",
+    "category": "Movement",
+    "id": 439,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sweep",
+    "turkish": "süpürmek",
+    "sentence": "I need to sweep the floor.",
+    "category": "Household",
+    "id": 440,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "mop",
+    "turkish": "paspaslamak",
+    "sentence": "She mopped the kitchen floor.",
+    "category": "Household",
+    "id": 441,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "dust",
+    "turkish": "tuzunu almak",
+    "sentence": "He dusted the furniture.",
+    "category": "Household",
+    "id": 442,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "iron",
+    "turkish": "ütülemek",
+    "sentence": "I hate ironing shirts.",
+    "category": "Household",
+    "id": 443,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "fold",
+    "turkish": "katlamak",
+    "sentence": "Please fold your clothes.",
+    "category": "Household",
+    "id": 444,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "vacuum",
+    "turkish": "elektrikli süpürge ile temizlemek",
+    "sentence": "We vacuum the carpets weekly.",
+    "category": "Household",
+    "id": 445,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "scrub",
+    "turkish": "ovalamak",
+    "sentence": "Scrub the bathtub until it shines.",
+    "category": "Household",
+    "id": 446,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wipe",
+    "turkish": "silmek (bezle)",
+    "sentence": "Wipe the table after dinner.",
+    "category": "Household",
+    "id": 447,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "polish",
+    "turkish": "parlatmak / cilalamak",
+    "sentence": "He spent hours polishing his car.",
+    "category": "Household",
+    "id": 448,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "decorate",
+    "turkish": "dekore etmek / süslemek",
+    "sentence": "We decorated the room for the party.",
+    "category": "Household",
+    "id": 449,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wear",
+    "turkish": "giymek / takmak",
+    "sentence": "She wears glasses.",
+    "category": "Fashion",
+    "id": 450,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "undress",
+    "turkish": "soyunmak",
+    "sentence": "He undressed and took a shower.",
+    "category": "Fashion",
+    "id": 451,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "button",
+    "turkish": "düğmelemek",
+    "sentence": "Button up your coat, it's cold.",
+    "category": "Fashion",
+    "id": 452,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "zip",
+    "turkish": "fermuarlamak",
+    "sentence": "Zip up your jacket.",
+    "category": "Fashion",
+    "id": 453,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tie",
+    "turkish": "bağlamak (kravat/ayakkabı)",
+    "sentence": "Can you tie this knot?",
+    "category": "Fashion",
+    "id": 454,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "mend",
+    "turkish": "onarmak (kıyafet)",
+    "sentence": "I need to mend these jeans.",
+    "category": "Fashion",
+    "id": 455,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "try on",
+    "turkish": "üzerinde denemek (kıyafet)",
+    "sentence": "Can I try this dress on?",
+    "category": "Fashion",
+    "id": 456,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "fit",
+    "turkish": "uymak (beden olarak)",
+    "sentence": "These shoes don't fit me.",
+    "category": "Fashion",
+    "id": 457,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "fight",
+    "turkish": "kavga etmek / savaşmak",
+    "sentence": "Boys shouldn't fight.",
+    "category": "Conflict",
+    "id": 458,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "attack",
+    "turkish": "saldırmak",
+    "sentence": "The dog attacked the intruder.",
+    "category": "Conflict",
+    "id": 459,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "guard",
+    "turkish": "nöbet tutmak / korumak",
+    "sentence": "Soldiers guard the palace.",
+    "category": "Conflict",
+    "id": 460,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shoot",
+    "turkish": "ateş etmek / vurmak",
+    "sentence": "Do not shoot!",
+    "category": "Conflict",
+    "id": 461,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bomb",
+    "turkish": "bombalamak",
+    "sentence": "The city was bombed during the war.",
+    "category": "Conflict",
+    "id": 462,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "explode",
+    "turkish": "patlamak",
+    "sentence": "The gas tank exploded.",
+    "category": "Conflict",
+    "id": 463,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "destroy",
+    "turkish": "yok etmek",
+    "sentence": "Fire destroyed the house.",
+    "category": "Conflict",
+    "id": 464,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "defeat",
+    "turkish": "yenmek / mağlup etmek",
+    "sentence": "They defeated the enemy army.",
+    "category": "Conflict",
+    "id": 465,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "conquer",
+    "turkish": "fethetmek",
+    "sentence": "Romans conquered many lands.",
+    "category": "Conflict",
+    "id": 466,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "surrender",
+    "turkish": "teslim olmak",
+    "sentence": "The rebels surrendered.",
+    "category": "Conflict",
+    "id": 467,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "exist",
+    "turkish": "var olmak",
+    "sentence": "Does life exist on Mars?",
+    "category": "Abstract",
+    "id": 468,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "occur",
+    "turkish": "meydana gelmek / olmak",
+    "sentence": "Mistakes occur when you are tired.",
+    "category": "Abstract",
+    "id": 469,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "seem",
+    "turkish": "görünmek",
+    "sentence": "It seems like a good idea.",
+    "category": "Abstract",
+    "id": 470,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tend",
+    "turkish": "eğiliminde olmak",
+    "sentence": "He tends to be late.",
+    "category": "Abstract",
+    "id": 471,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "belong",
+    "turkish": "ait olmak",
+    "sentence": "This book belongs to me.",
+    "category": "Abstract",
+    "id": 472,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "consist",
+    "turkish": "oluşmak (-den)",
+    "sentence": "The team consists of five members.",
+    "category": "Abstract",
+    "id": 473,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "contain",
+    "turkish": "içermek",
+    "sentence": "This box contains fragile items.",
+    "category": "Abstract",
+    "id": 474,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "include",
+    "turkish": "dahil etmek",
+    "sentence": "The price includes breakfast.",
+    "category": "Abstract",
+    "id": 475,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "involve",
+    "turkish": "kapsamak / gerektirmek",
+    "sentence": "The job involves a lot of travel.",
+    "category": "Abstract",
+    "id": 476,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "matter",
+    "turkish": "önemli olmak",
+    "sentence": "It doesn't matter what they say.",
+    "category": "Abstract",
+    "id": 477,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "copy",
+    "turkish": "kopyalamak",
+    "sentence": "Do not copy my homework.",
+    "category": "Arts",
+    "id": 478,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "paste",
+    "turkish": "yapıştırmak",
+    "sentence": "Cut and paste the text.",
+    "category": "Arts",
+    "id": 479,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "announce",
+    "turkish": "duyurmak",
+    "sentence": "They announced the winner.",
+    "category": "Communication",
+    "id": 480,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "declare",
+    "turkish": "beyan etmek / ilan etmek",
+    "sentence": "The country declared independence.",
+    "category": "Communication",
+    "id": 481,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "scream",
+    "turkish": "çığlık atmak",
+    "sentence": "She screamed when she saw the spider.",
+    "category": "Communication",
+    "id": 482,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "chat",
+    "turkish": "sohbet etmek",
+    "sentence": "We chatted for hours.",
+    "category": "Communication",
+    "id": 483,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "translate",
+    "turkish": "çevirmek (dil)",
+    "sentence": "Can you translate this into Turkish?",
+    "category": "Communication",
+    "id": 484,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "pronounce",
+    "turkish": "telaffuz etmek",
+    "sentence": "How do you pronounce this word?",
+    "category": "Communication",
+    "id": 485,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "spell",
+    "turkish": "hecelemek / yazılışını söylemek",
+    "sentence": "How do you spell your name?",
+    "category": "Communication",
+    "id": 486,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "frown",
+    "turkish": "kaşlarını çatmak",
+    "sentence": "He frowned in disapproval.",
+    "category": "Body",
+    "id": 487,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "blush",
+    "turkish": "kızarmak (yüz)",
+    "sentence": "She blushed when he complimented her.",
+    "category": "Body",
+    "id": 488,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wink",
+    "turkish": "göz kırpmak",
+    "sentence": "He winked at me playfully.",
+    "category": "Body",
+    "id": 489,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "stare",
+    "turkish": "dik dik bakmak",
+    "sentence": "Don't stare, it's rude.",
+    "category": "Body",
+    "id": 490,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "glance",
+    "turkish": "göz atmak (hızlıca)",
+    "sentence": "He glanced at his watch.",
+    "category": "Body",
+    "id": 491,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "point",
+    "turkish": "işaret etmek (parmakla)",
+    "sentence": "She pointed to the door.",
+    "category": "Body",
+    "id": 492,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "clap",
+    "turkish": "alkışlamak",
+    "sentence": "The audience clapped loudly.",
+    "category": "Body",
+    "id": 493,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "whistle",
+    "turkish": "ıslık çalmak",
+    "sentence": "He whistled a happy tune.",
+    "category": "Body",
+    "id": 494,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "snap",
+    "turkish": "parmak şıklatmak / kopmak",
+    "sentence": "He snapped his fingers.",
+    "category": "Body",
+    "id": 495,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sigh",
+    "turkish": "iç çekmek",
+    "sentence": "She sighed with relief.",
+    "category": "Body",
+    "id": 496,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "yawn",
+    "turkish": "esnemek (uyku)",
+    "sentence": "I couldn't help but yawn.",
+    "category": "Body",
+    "id": 497,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "punch",
+    "turkish": "yumruk atmak",
+    "sentence": "The boxer punched his opponent.",
+    "category": "Interaction",
+    "id": 498,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "kick",
+    "turkish": "tekmelemek",
+    "sentence": "He kicked the ball.",
+    "category": "Interaction",
+    "id": 499,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "slap",
+    "turkish": "tokatlamak",
+    "sentence": "She slapped him in anger.",
+    "category": "Interaction",
+    "id": 500,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "drag",
+    "turkish": "sürüklemek",
+    "sentence": "Drag the file to the folder.",
+    "category": "Interaction",
+    "id": 501,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "drop",
+    "turkish": "düşürmek",
+    "sentence": "Don't drop that vase!",
+    "category": "Interaction",
+    "id": 502,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "grab",
+    "turkish": "kapmak / yakalamak",
+    "sentence": "He grabbed his bag and ran.",
+    "category": "Interaction",
+    "id": 503,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "scratch",
+    "turkish": "kaşımak / tırmalamak",
+    "sentence": "The cat scratched the sofa.",
+    "category": "Interaction",
+    "id": 504,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tickle",
+    "turkish": "gıdıklamak",
+    "sentence": "Stop tickling me!",
+    "category": "Interaction",
+    "id": 505,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "pat",
+    "turkish": "hafifçe vurmak / sıvazlamak",
+    "sentence": "He patted the dog on the head.",
+    "category": "Interaction",
+    "id": 506,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "stroke",
+    "turkish": "okşamak",
+    "sentence": "She stroked the cat's fur.",
+    "category": "Interaction",
+    "id": 507,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "comment",
+    "turkish": "yorum yapmak",
+    "sentence": "Please comment below.",
+    "category": "Technology",
+    "id": 508,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "block",
+    "turkish": "engellemek",
+    "sentence": "He blocked her on social media.",
+    "category": "Technology",
+    "id": 509,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "search",
+    "turkish": "aramak (araştırma)",
+    "sentence": "Search for the answers online.",
+    "category": "Technology",
+    "id": 510,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "scroll",
+    "turkish": "kaydırmak (ekran)",
+    "sentence": "Scroll down for more info.",
+    "category": "Technology",
+    "id": 511,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "charge",
+    "turkish": "şarj etmek / suçlamak / ücret talep etmek",
+    "sentence": "I need to charge my phone.",
+    "category": "Technology",
+    "id": 512,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "afford",
+    "turkish": "gücü yetmek (maddi)",
+    "sentence": "I can't afford a new phone.",
+    "category": "Finance",
+    "id": 513,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "refund",
+    "turkish": "iade etmek (para)",
+    "sentence": "They refunded my money.",
+    "category": "Finance",
+    "id": 514,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "exchange",
+    "turkish": "takas etmek / bozdurmak (döviz)",
+    "sentence": "Where can I exchange dollars?",
+    "category": "Finance",
+    "id": 515,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tax",
+    "turkish": "vergilendirmek",
+    "sentence": "Income is taxed by the government.",
+    "category": "Finance",
+    "id": 516,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "insure",
+    "turkish": "sigortalamak",
+    "sentence": "You should insure your house.",
+    "category": "Finance",
+    "id": 517,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "withdraw",
+    "turkish": "para çekmek / geri çekilmek",
+    "sentence": "I withdrew cash from the ATM.",
+    "category": "Finance",
+    "id": 518,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "deposit",
+    "turkish": "para yatırmak",
+    "sentence": "Please deposit the check.",
+    "category": "Finance",
+    "id": 519,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "profit",
+    "turkish": "kar etmek",
+    "sentence": "The company profited from the deal.",
+    "category": "Finance",
+    "id": 520,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bankrupt",
+    "turkish": "iflas ettirmek",
+    "sentence": "Bad management bankrupted the firm.",
+    "category": "Finance",
+    "id": 521,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "kidnap",
+    "turkish": "kardırmak (insan)",
+    "sentence": "The child was kidnapped for ransom.",
+    "category": "Crime",
+    "id": 522,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "rob",
+    "turkish": "soymak (birini/bir yeri)",
+    "sentence": "They robbed the bank.",
+    "category": "Crime",
+    "id": 523,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "steal",
+    "turkish": "çalmak (bir şeyi)",
+    "sentence": "Someone stole my wallet.",
+    "category": "Crime",
+    "id": 524,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "burgle",
+    "turkish": "ev soymak",
+    "sentence": "Our house was burgled while we were away.",
+    "category": "Crime",
+    "id": 525,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "smuggle",
+    "turkish": "kaçakçılık yapmak",
+    "sentence": "He tried to smuggle goods across the border.",
+    "category": "Crime",
+    "id": 526,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bribe",
+    "turkish": "rüşvet vermek",
+    "sentence": "He tried to bribe the officer.",
+    "category": "Crime",
+    "id": 527,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sentence",
+    "turkish": "hüküm giydirmek",
+    "sentence": "The judge sentenced him to ten years.",
+    "category": "Law",
+    "id": 528,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "witness",
+    "turkish": "tanıklık etmek / şahit olmak",
+    "sentence": "Did anyone witness the accident?",
+    "category": "Law",
+    "id": 529,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "testify",
+    "turkish": "ifade vermek (mahkemede)",
+    "sentence": "She agreed to testify against him.",
+    "category": "Law",
+    "id": 530,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "judge",
+    "turkish": "yargılamak / değerlendirmek",
+    "sentence": "Don't judge a book by its cover.",
+    "category": "Law",
+    "id": 531,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "cheat",
+    "turkish": "hile yapmak / aldatmak",
+    "sentence": "He cheated on the exam.",
+    "category": "Crime",
+    "id": 532,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "blackmail",
+    "turkish": "şantaj yapmak",
+    "sentence": "She was blackmailed with photos.",
+    "category": "Crime",
+    "id": 533,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "steam",
+    "turkish": "buharda pişirmek",
+    "sentence": "Steam the vegetables for 5 minutes.",
+    "category": "Culinary",
+    "id": 534,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "mince",
+    "turkish": "kıyma yapmak / ince kıymak",
+    "sentence": "Mince the garlic.",
+    "category": "Culinary",
+    "id": 535,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "dice",
+    "turkish": "küp küp doğramak",
+    "sentence": "Dice the carrots.",
+    "category": "Culinary",
+    "id": 536,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "knead",
+    "turkish": "yoğurmak (hamur)",
+    "sentence": "Knead the dough until smooth.",
+    "category": "Culinary",
+    "id": 537,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sift",
+    "turkish": "elemek",
+    "sentence": "Sift the flour before baking.",
+    "category": "Culinary",
+    "id": 538,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "marinate",
+    "turkish": "marine etmek",
+    "sentence": "Marinate the chicken overnight.",
+    "category": "Culinary",
+    "id": 539,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sprinkle",
+    "turkish": "serpmek",
+    "sentence": "Sprinkle some salt on top.",
+    "category": "Culinary",
+    "id": 540,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "feed",
+    "turkish": "beslemek",
+    "sentence": "Don't feed the animals.",
+    "category": "Culinary",
+    "id": 541,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "starve",
+    "turkish": "açlıktan ölmek / çok acıkmak",
+    "sentence": "I'm starving!",
+    "category": "Culinary",
+    "id": 542,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "foul",
+    "turkish": "faul yapmak",
+    "sentence": "He fouled the other player.",
+    "category": "Sports",
+    "id": 543,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tackle",
+    "turkish": "müdahale etmek (topa/rakibe)",
+    "sentence": "Good tackle!",
+    "category": "Sports",
+    "id": 544,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "catch",
+    "turkish": "yakalamak",
+    "sentence": "Catch the ball!",
+    "category": "Sports",
+    "id": 545,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "throw",
+    "turkish": "atmak / fırlatmak",
+    "sentence": "Throw the ball here.",
+    "category": "Sports",
+    "id": 546,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hit",
+    "turkish": "vurmak",
+    "sentence": "He hit the ball with the bat.",
+    "category": "Sports",
+    "id": 547,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "rain",
+    "turkish": "yağmur yağmak",
+    "sentence": "It is raining heavily.",
+    "category": "Weather",
+    "id": 548,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "snow",
+    "turkish": "kar yağmak",
+    "sentence": "It rarely snows here.",
+    "category": "Weather",
+    "id": 549,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "hail",
+    "turkish": "dolu yağmak",
+    "sentence": "It started to hail.",
+    "category": "Weather",
+    "id": 550,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "blow",
+    "turkish": "esmek / üflemek",
+    "sentence": "The wind is blowing hard.",
+    "category": "Weather",
+    "id": 551,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shine",
+    "turkish": "parlamak (güneş)",
+    "sentence": "The sun is shining.",
+    "category": "Weather",
+    "id": 552,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "thunder",
+    "turkish": "gök gürlemek",
+    "sentence": "It thundered all night.",
+    "category": "Weather",
+    "id": 553,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "flash",
+    "turkish": "şimşek çakmak / parlamak",
+    "sentence": "Lightning flashed in the sky.",
+    "category": "Weather",
+    "id": 554,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "clear up",
+    "turkish": "açılmak (hava)",
+    "sentence": "The sky cleared up after the storm.",
+    "category": "Weather",
+    "id": 555,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shock",
+    "turkish": "şok etmek",
+    "sentence": "The news shocked everyone.",
+    "category": "Emotions",
+    "id": 556,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "surprise",
+    "turkish": "şaşırtmak",
+    "sentence": "They surprised him with a party.",
+    "category": "Emotions",
+    "id": 557,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "annoy",
+    "turkish": "kızdırmak / rahatsız etmek",
+    "sentence": "His bad habits annoy me.",
+    "category": "Emotions",
+    "id": 558,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "bore",
+    "turkish": "sıkmak (canını)",
+    "sentence": "This movie bores me.",
+    "category": "Emotions",
+    "id": 559,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "confuse",
+    "turkish": "kafasını karıştırmak",
+    "sentence": "The instructions confused me.",
+    "category": "Emotions",
+    "id": 560,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "frighten",
+    "turkish": "korkutmak",
+    "sentence": "Loud noises frighten the dog.",
+    "category": "Emotions",
+    "id": 561,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "scare",
+    "turkish": "ödünü koparmak",
+    "sentence": "You scared me!",
+    "category": "Emotions",
+    "id": 562,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "disappoint",
+    "turkish": "hayal kırıklığına uğratmak",
+    "sentence": "I'm sorry to disappoint you.",
+    "category": "Emotions",
+    "id": 563,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "satisfy",
+    "turkish": "tatmin etmek / memnun etmek",
+    "sentence": "The meal satisfied his hunger.",
+    "category": "Emotions",
+    "id": 564,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "please",
+    "turkish": "memnun etmek",
+    "sentence": "It pleases me to see you happy.",
+    "category": "Emotions",
+    "id": 565,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "embarrass",
+    "turkish": "utandırmak",
+    "sentence": "Don't embarrass me in front of my friends.",
+    "category": "Emotions",
+    "id": 566,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "excite",
+    "turkish": "heyecanlandırmak",
+    "sentence": "The news excited the children.",
+    "category": "Emotions",
+    "id": 567,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "burn",
+    "turkish": "yakmak / yanmak",
+    "sentence": "The fire burned for hours.",
+    "category": "General",
+    "id": 568,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "burst",
+    "turkish": "patlamak (balon/lastik)",
+    "sentence": "The balloon burst with a loud bang.",
+    "category": "General",
+    "id": 569,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "cast",
+    "turkish": "fırlatmak / rol vermek",
+    "sentence": "He cast the fishing line into the water.",
+    "category": "General",
+    "id": 570,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "cling",
+    "turkish": "yapışmak / tutunmak",
+    "sentence": "The wet shirt clung to his body.",
+    "category": "General",
+    "id": 571,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "deal",
+    "turkish": "anlaşmak / dağıtmak (kart)",
+    "sentence": "Deal the cards.",
+    "category": "General",
+    "id": 572,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "dwell",
+    "turkish": "ikamet etmek / üzerinde durmak",
+    "sentence": "Don't dwell on the past.",
+    "category": "General",
+    "id": 573,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "fling",
+    "turkish": "savurmak / fırlatıp atmak",
+    "sentence": "She flung her coat on the sofa.",
+    "category": "General",
+    "id": 574,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "grind",
+    "turkish": "öğütmek",
+    "sentence": "Grind the coffee beans.",
+    "category": "Culinary",
+    "id": 575,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "kneel",
+    "turkish": "diz çökmek",
+    "sentence": "He knelt to propose.",
+    "category": "Body",
+    "id": 576,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "lay",
+    "turkish": "sermek / koymak (yatay)",
+    "sentence": "Lay the gun on the ground.",
+    "category": "General",
+    "id": 577,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "lean",
+    "turkish": "yaslanmak / eğilmek",
+    "sentence": "Don't lean against the wall.",
+    "category": "Body",
+    "id": 578,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "light",
+    "turkish": "aydınlatmak / yakmak",
+    "sentence": "Light the candle.",
+    "category": "General",
+    "id": 579,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "mean",
+    "turkish": "kastetmek / anlamına gelmek",
+    "sentence": "What do you mean?",
+    "category": "Communication",
+    "id": 580,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "mow",
+    "turkish": "biçmek (çim)",
+    "sentence": "I need to mow the lawn.",
+    "category": "Household",
+    "id": 581,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "prove",
+    "turkish": "kanıtlamak",
+    "sentence": "Can you prove it?",
+    "category": "Logic",
+    "id": 582,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shear",
+    "turkish": "kırkmak (koyun)",
+    "sentence": "Farmers shear sheep in spring.",
+    "category": "Nature",
+    "id": 583,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shed",
+    "turkish": "dökmek (yaprak/tüy) / akıtmak (gözyaşı)",
+    "sentence": "Trees shed leaves in autumn.",
+    "category": "Nature",
+    "id": 584,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shrink",
+    "turkish": "küçülmek / çekmek (kıyafet)",
+    "sentence": "This shirt shrank in the wash.",
+    "category": "Fashion",
+    "id": 585,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "shut",
+    "turkish": "kapatmak",
+    "sentence": "Shut the door please.",
+    "category": "General",
+    "id": 586,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sink",
+    "turkish": "batmak",
+    "sentence": "The ship started to sink.",
+    "category": "General",
+    "id": 587,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sit",
+    "turkish": "oturmak",
+    "sentence": "Please sit down.",
+    "category": "Body",
+    "id": 588,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "slay",
+    "turkish": "katletmek / öldürmek (eski)",
+    "sentence": "The knight slew the dragon.",
+    "category": "History",
+    "id": 589,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sling",
+    "turkish": "asmak (omuz) / fırlatmak",
+    "sentence": "He slung the bag over his shoulder.",
+    "category": "General",
+    "id": 590,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "slit",
+    "turkish": "yarmak / kesmek (ince)",
+    "sentence": "He slit the envelope open.",
+    "category": "General",
+    "id": 591,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "sow",
+    "turkish": "eçmek (tohum)",
+    "sentence": "You reap what you sow.",
+    "category": "Nature",
+    "id": 592,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "speak",
+    "turkish": "konuşmak",
+    "sentence": "Can you speak English?",
+    "category": "Communication",
+    "id": 593,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "speed",
+    "turkish": "hızla gitmek / hız yapmak",
+    "sentence": "He was speeding on the highway.",
+    "category": "Movement",
+    "id": 594,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "spend",
+    "turkish": "harcamak (para/zaman)",
+    "sentence": "Don't spend all your money.",
+    "category": "Finance",
+    "id": 595,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "spill",
+    "turkish": "dökmek (sıvı)",
+    "sentence": "I spilled coffee on my shirt.",
+    "category": "Household",
+    "id": 596,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "spin",
+    "turkish": "döndürmek / dönmek",
+    "sentence": "The wheels spin fast.",
+    "category": "Movement",
+    "id": 597,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "spit",
+    "turkish": "tükürmek",
+    "sentence": "Don't spit on the ground.",
+    "category": "Body",
+    "id": 598,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "split",
+    "turkish": "bölmek / ayrılmak",
+    "sentence": "Let's split the bill.",
+    "category": "General",
+    "id": 599,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "spoil",
+    "turkish": "bozmak / şımartmak",
+    "sentence": "The milk will spoil if not refrigerated.",
+    "category": "Culinary",
+    "id": 600,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "spread",
+    "turkish": "yaymak / sürmek",
+    "sentence": "Spread butter on the toast.",
+    "category": "Culinary",
+    "id": 601,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "spring",
+    "turkish": "sıçramak / fırlamak",
+    "sentence": "The cat can spring high.",
+    "category": "Movement",
+    "id": 602,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "stand",
+    "turkish": "ayakta durmak",
+    "sentence": "Stand up straight.",
+    "category": "Body",
+    "id": 603,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "stick",
+    "turkish": "yapıştırmak / saplamak",
+    "sentence": "Stick a stamp on the envelope.",
+    "category": "General",
+    "id": 604,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "stink",
+    "turkish": "kötü kokmak",
+    "sentence": "This trash stinks.",
+    "category": "Sensory",
+    "id": 605,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "stride",
+    "turkish": "uzun adımlarla yürümek",
+    "sentence": "He strode confidently into the room.",
+    "category": "Movement",
+    "id": 606,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "strike",
+    "turkish": "vurmak / grev yapmak",
+    "sentence": "Lightning might strike the tree.",
+    "category": "General",
+    "id": 607,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "string",
+    "turkish": "dizmek (ipliğe)",
+    "sentence": "String the beads together.",
+    "category": "Arts",
+    "id": 608,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "strive",
+    "turkish": "çabalamak",
+    "sentence": "We strive for excellence.",
+    "category": "General",
+    "id": 609,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "swear",
+    "turkish": "yemin etmek / küfretmek",
+    "sentence": "I swear to tell the truth.",
+    "category": "Communication",
+    "id": 610,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "swell",
+    "turkish": "şişmek",
+    "sentence": "His ankle started to swell.",
+    "category": "Health",
+    "id": 611,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "swing",
+    "turkish": "sallanmak",
+    "sentence": "Kids love to swing in the park.",
+    "category": "Movement",
+    "id": 612,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "take",
+    "turkish": "almak / götürmek",
+    "sentence": "Take this medicine.",
+    "category": "General",
+    "id": 613,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tear",
+    "turkish": "yırtmak",
+    "sentence": "Don't tear the paper.",
+    "category": "General",
+    "id": 614,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tell",
+    "turkish": "anlatmak / söylemek",
+    "sentence": "Tell me a story.",
+    "category": "Communication",
+    "id": 615,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "thrust",
+    "turkish": "itmek (hızla)",
+    "sentence": "He thrust the money into my hand.",
+    "category": "Movement",
+    "id": 616,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "tread",
+    "turkish": "basmak / yürümek",
+    "sentence": "Don't tread on the grass.",
+    "category": "Movement",
+    "id": 617,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "weave",
+    "turkish": "dokumak",
+    "sentence": "She weaves beautiful carpets.",
+    "category": "Arts",
+    "id": 618,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "weep",
+    "turkish": "ağlamak (hıçkırarak)",
+    "sentence": "She wept for her loss.",
+    "category": "Emotions",
+    "id": 619,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wet",
+    "turkish": "ıslatmak",
+    "sentence": "Don't wet the bed.",
+    "category": "General",
+    "id": 620,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wind",
+    "turkish": "kurmak (saat) / dolamak",
+    "sentence": "Wind the clock before bed.",
+    "category": "General",
+    "id": 621,
+    "weight": 100,
+    "correct_count": 0
+  },
+  {
+    "verb": "wring",
+    "turkish": "sıkmak (suyunu)",
+    "sentence": "Wring the wet layout.",
+    "category": "Household",
+    "id": 622,
+    "weight": 100,
+    "correct_count": 0
+  }
+]
